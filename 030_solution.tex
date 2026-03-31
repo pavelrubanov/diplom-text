@@ -1,0 +1,235 @@
+% !TeX spellcheck = ru_RU
+% !TEX root = vkr.tex
+
+\section{Описание решения}
+\label{sec:solution}
+
+\subsection{Требования к системе}
+
+Требования сформулированы совместно с консультантом (м.н.с.\ лаборатории Гербарий ГБС РАН, Шкурко~А.~В.)
+на основе технического задания.
+
+\subsubsection*{Требования заказчика}
+
+\begin{enumerate}
+    \item Автоматическое распознавание формы листа и построение полигональной маски контура.
+    \item Определение длины и ширины полигона.
+    \item Расстановка точек вдоль перпендикуляров к главной оси с заданным шагом (например, $\frac{1}{2}$ или $\frac{1}{4}$ длины листа).
+    \item Просмотр исходного изображения и маски рядом на экране.
+    \item Возможность задать масштабный коэффициент ($1~\text{пиксель} = \ldots~\text{мм}$) для вывода измерений в физических единицах.
+    \item Экспорт результатов в табличный формат (CSV / Excel).
+    \item Пакетная обработка серий изображений.
+    \item Возможность ручной корректировки автоматически построенной маски.
+\end{enumerate}
+
+\subsubsection*{Функциональные требования}
+
+На основе технического задания выделены следующие варианты использования:
+
+\begin{itemize}
+    \item \textbf{UC1.} Загрузить набор изображений для обработки.
+    \item \textbf{UC2.} Получить маску сегментации по интерактивным подсказкам (точки, ограничивающий прямоугольник).
+    \item \textbf{UC3.} Скорректировать маску вручную в режиме кисти/ластика.
+    \item \textbf{UC4.} Добавить подтверждённую маску в буфер или удалить её.
+    \item \textbf{UC5.} Задать масштабный коэффициент пиксель~→~мм.
+    \item \textbf{UC6.} Запустить пакетное измерение всех сохранённых масок.
+    \item \textbf{UC7.} Экспортировать таблицу результатов в~CSV.
+\end{itemize}
+
+\subsubsection*{Нефункциональные требования}
+
+\begin{itemize}
+    \item Работа на CPU без выделенного GPU~--- приложение должно запускаться на стандартных рабочих станциях лаборатории.
+    \item Время отклика модели сегментации не более 3~с на одно изображение.
+    \item Поддержка форматов JPEG, PNG, TIFF.
+    \item Воспроизводимость результатов: одни и те же входные данные и подсказки дают одинаковый вывод.
+    \item Единый формат хранения масок (PNG) и измерений (CSV) для последующей статистической обработки.
+\end{itemize}
+
+\subsection{Архитектура приложения}
+
+Приложение реализовано на языке Python с использованием фреймворка PyQt6 для графического интерфейса
+и библиотеки PyTorch для инференса модели MobileSAM.
+Исходный код опубликован по адресу \url{https://github.com/pavelrubanov/segmentation_system}.
+
+Система состоит из двух слоёв: \textit{ядра} (core) и \textit{пользовательского интерфейса} (ui).
+Ядро не зависит от GUI и включает обёртку над моделью сегментации, модель данных изображений
+и модуль измерений. Слой UI реализует окна и виджеты PyQt6.
+
+\begin{figure}[H]
+    \centering
+    % TODO: вставить System architecture.png
+    % \includegraphics[width=0.9\linewidth]{figures/architecture.png}
+    \caption{Архитектура системы}
+    \label{fig:architecture}
+\end{figure}
+
+Точка входа~--- \texttt{main.py}~--- принимает аргумент \texttt{-{}-checkpoint} с путём к весам модели,
+проверяет его наличие и запускает главное окно навигации (\texttt{NavigationWindow}).
+
+\subsection{Диаграмма активностей}
+
+На рисунке~\ref{fig:activity} представлен типовой рабочий цикл биолога при работе с системой.
+Ключевой момент~--- решение об отборе листа (ромб «Лист пригоден?») остаётся за экспертом,
+тогда как система берёт на себя сегментацию и все последующие вычисления.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+    font=\footnotesize,
+    node distance=0.55cm,
+    action/.style={rectangle, draw, rounded corners=3pt, align=center,
+                   minimum width=4.8cm, minimum height=0.75cm, fill=white},
+    decision/.style={diamond, draw, align=center, inner sep=1pt,
+                     minimum width=1.0cm, fill=white},
+    arr/.style={->, >=Stealth, thick},
+    label/.style={font=\scriptsize, inner sep=1pt},
+]
+
+% --- nodes ---
+\node[draw, circle, fill=black, minimum size=0.28cm] (start) {};
+
+\node[action,  below=of start]       (load)       {Загрузить папку с изображениями};
+\node[action,  below=of load]        (nav)        {Перейти к следующему изображению};
+\node[action,  below=of nav]         (click)      {Кликнуть на лист\\(positive point / bbox)};
+\node[action,  below=of click]       (sam)        {\textit{[система]} Построить маску (MobileSAM)};
+\node[decision,below=of sam]         (ok)         {Маска\\точная?};
+\node[action,  below=of ok]          (save)       {\textit{[система]} Сохранить маску в буфер};
+\node[decision,below=of save]        (moreleaves) {Ещё листья\\на изображении?};
+\node[decision,below=of moreleaves]  (moreimages) {Ещё\\изображения?};
+\node[action,  below=of moreimages]  (batch)      {Запустить пакетные измерения};
+\node[action,  below=of batch]       (export)     {Экспортировать CSV};
+
+\node[draw, circle, fill=black, minimum size=0.28cm,
+      below=of export] (end) {};
+\node[draw, circle, minimum size=0.38cm] at (end) {};  % двойной круг
+
+% боковой узел: правка маски
+\node[action, right=1.8cm of ok] (edit) {Исправить маску\\(кисть / ластик)};
+
+% --- arrows ---
+\draw[arr] (start) -- (load);
+\draw[arr] (load)  -- (nav);
+\draw[arr] (nav)   -- (click);
+\draw[arr] (click) -- (sam);
+\draw[arr] (sam)   -- (ok);
+
+% ok? → да ↓, нет → edit → сразу к save
+\draw[arr] (ok)       -- node[label, left]{да} (save);
+\draw[arr] (ok.east)  -- node[label, above]{нет} (edit.west);
+\draw[arr] (edit.south) |- (save.east);
+
+\draw[arr] (save) -- (moreleaves);
+
+% moreleaves? → нет ↓, да → влево и вверх к click.west (внутренний контур)
+\draw[arr] (moreleaves) -- node[label, left]{нет} (moreimages);
+\draw[arr] (moreleaves.west) -- ++(-2.0,0) node[label, above left]{да}
+           |- (click.west);
+
+% moreimages? → нет ↓, да → влево и вверх к nav.west (внешний контур)
+\draw[arr] (moreimages) -- node[label, left]{нет} (batch);
+\draw[arr] (moreimages.west) -- ++(-3.0,0) node[label, above left]{да}
+           |- (nav.west);
+
+\draw[arr] (batch)  -- (export);
+\draw[arr] (export) -- (end);
+
+\end{tikzpicture}
+\caption{Диаграмма активностей: рабочий цикл пользователя}
+\label{fig:activity}
+\end{figure}
+
+\subsection{Диаграмма классов}
+
+Ключевые классы системы:
+
+\begin{itemize}
+    \item \texttt{Predictor}~--- обёртка над MobileSAM.
+          Метод \texttt{predict(points, labels, box)} принимает список координат точек,
+          их меток ($+1$ / $-1$) и опциональный ограничивающий прямоугольник;
+          возвращает бинарную маску в виде массива \texttt{uint8} (значения 0 и 255).
+          Инференс выполняется на CPU с помощью \texttt{torch.no\_grad()}.
+
+    \item \texttt{ImageWithMasks}~--- датакласс, хранящий изображение (\texttt{numpy} RGB) и имя файла.
+          Маски не хранятся в памяти~--- только пути к файлам на диске, что снижает потребление RAM
+          при пакетной обработке.
+
+    \item \texttt{LeafMetrics}~--- результат измерения одного листа:
+          \texttt{length\_px}, \texttt{width\_px} и список \texttt{SectionWidth}
+          для семи поперечных сечений.
+
+    \item \texttt{SegmentationCanvas}~--- виджет \texttt{QGraphicsView} с двумя режимами:
+          \textit{PROMPTS} (клики мышью задают подсказки для SAM) и
+          \textit{EDIT} (кисть/ластик для ручной коррекции маски).
+          Поддерживает зум в точку курсора и панорамирование по \texttt{Ctrl+ЛКМ}.
+
+    \item \texttt{MasksBuffer}~--- галерея миниатюр сохранённых масок (256$\times$256 px).
+          Маски индексируются по имени изображения (\texttt{image\_mask\_0001.png} и т.д.).
+\end{itemize}
+
+\subsection{Диаграмма последовательности}
+
+Типовой сценарий работы пользователя:
+
+\begin{enumerate}
+    \item Загрузить набор изображений~→ \texttt{NavigationWindow} открывает \texttt{SegmentationWindow}.
+    \item Щёлкнуть по листу левой кнопкой мыши (positive point)~→
+          \texttt{SegmentationCanvas} вызывает \texttt{Predictor.predict()}~→
+          полупрозрачный overlay маски отображается поверх изображения.
+    \item При необходимости переключиться в режим EDIT и подправить маску кистью.
+    \item Подтвердить маску~→ файл PNG сохраняется на диск, \texttt{MasksBuffer} обновляет миниатюру.
+    \item Перейти в \texttt{ProcessingWindow}, выбрать папку с масками, запустить измерения.
+    \item \texttt{leaf\_measure.measure\_leaf()} обрабатывает каждую маску~→ CSV экспортируется.
+\end{enumerate}
+
+\subsection{Алгоритм параметрических измерений}
+
+Модуль \texttt{leaf\_measure.py} реализует измерение геометрических характеристик листа
+на основе анализа главных компонент (PCA) контура маски.
+
+\begin{enumerate}
+    \item Из бинарной маски извлекается внешний контур (OpenCV \texttt{findContours}).
+    \item К координатам точек контура применяется PCA:
+          первый главный вектор соответствует главной оси листа (длина),
+          второй~--- перпендикулярному направлению (ширина).
+    \item Длина листа вычисляется как проекция контура на первый главный вектор.
+    \item Ширина в точке $t \in \{0.125, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875\}$~---
+          расстояние между двумя пересечениями перпендикуляра к главной оси с контуром.
+    \item При наличии масштабного коэффициента значения пересчитываются в миллиметры.
+\end{enumerate}
+
+Для каждой обработанной маски генерируется изображение-визуализация (\texttt{*\_vis.png})
+с нанесёнными контуром, осями и поперечными сечениями.
+
+\subsection{Стек технологий}
+
+\begin{table}[H]
+\centering
+\caption{Использованные технологии}
+\label{tab:stack}
+\begin{tabular}{lll}
+\hline
+\textbf{Компонент} & \textbf{Технология} & \textbf{Обоснование} \\
+\hline
+Модель сегментации & MobileSAM (PyTorch) & Foundation model, CPU, 39~МБ \\
+Графический интерфейс & PyQt6 & Кроссплатформенный, мощный QGraphicsView \\
+Обработка изображений & OpenCV, NumPy & Стандарт для CV-задач \\
+Загрузка изображений & Pillow & TIFF, PNG, JPEG \\
+Экспорт результатов & csv (stdlib) & Совместимость с Excel \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Тестирование}
+
+Для верификации модуля измерений написаны модульные тесты:
+
+\begin{itemize}
+    \item \textit{Прямоугольная маска}: заданной ширины и высоты~---
+          ожидаемые длина и ширина совпадают с расчётными с погрешностью менее 1\%.
+    \item \textit{Эллиптическая маска}: проверяется симметричность профиля
+          (ширины в точках $t$ и $1-t$ должны совпадать).
+    \item \textit{Интеграционный тест}: загрузка реальных тестовых изображений из директории \texttt{test/images/},
+          получение маски через \texttt{Predictor}, запуск \texttt{measure\_leaf()} и
+          проверка формата вывода CSV.
+\end{itemize}
