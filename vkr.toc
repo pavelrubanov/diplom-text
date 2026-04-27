@@ -1,0 +1,53 @@
+\xpg@aux {}{russian}
+\contentsline {section}{Введение}{4}{section*.2}%
+\contentsline {section}{\numberline {1}Постановка задачи}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Цель и задачи работы}{6}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Обзор существующих решений}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Инструменты для морфометрии и сегментации изображений}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Сравнительный анализ}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Выбор модели сегментации}{10}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Описание решения}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Требования к системе}{14}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Архитектура приложения}{16}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма активностей}{16}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма классов}{18}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Диаграмма последовательности}{19}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Алгоритм параметрических измерений}{20}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Полностью автоматический режим}{20}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Аугментация данных}{22}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Модель классификации: HybridLeafClassifier}{23}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Модели one-class}{29}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Поддержка типов листьев мха Sphagnum}{32}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Стек технологий}{33}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Тестирование}{33}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Эксперимент}{35}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Цель и методология}{35}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Метрики качества}{35}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Сравнение длин листьев}{36}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Сравнение поперечных профилей ширины}{37}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Итоговые показатели}{37}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Апробация}{38}{subsection.4.6}%
+\contentsline {section}{Заключение}{39}{section*.22}%
+\contentsline {section}{Список литературы}{41}{section*.23}%
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}
+\xpg@aux {}{russian}

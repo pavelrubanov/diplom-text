@@ -1,0 +1,1615 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  19 APR 2026 15:46
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./vkr.tex
+(vkr.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(matmex-diploma-custom.cls
+Document Class: matmex-diploma-custom 2020/12/09 MatMex LaTeX diploma class
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2025/06/05 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen148
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen149
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks18
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count282
+\g__pdfannot_backend_int=\count283
+\g__pdfannot_backend_link_int=\count284
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count285
+\l__fontspec_language_int=\count286
+\l__fontspec_strnum_int=\count287
+\l__fontspec_tmp_int=\count288
+\l__fontspec_tmpa_int=\count289
+\l__fontspec_tmpb_int=\count290
+\l__fontspec_tmpc_int=\count291
+\l__fontspec_em_int=\count292
+\l__fontspec_emdef_int=\count293
+\l__fontspec_strong_int=\count294
+\l__fontspec_strongdef_int=\count295
+\l__fontspec_tmpa_dim=\dimen158
+\l__fontspec_tmpb_dim=\dimen159
+\l__fontspec_tmpc_dim=\dimen160
+ (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'CMUSerif(0)' created for font 'CMU Serif'
+(fontspec)             with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"CMU
+(fontspec)             Serif/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"CMU
+(fontspec)             Serif/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"CMU
+(fontspec)             Serif/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"CMU
+(fontspec)             Serif/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"CMU
+(fontspec)             Serif/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"CMU
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CMUSansSerif(0)' created for font 'CMU
+(fontspec)             Sans Serif' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"CMU Sans
+(fontspec)             Serif/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"CMU Sans
+(fontspec)             Serif/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"CMU Sans
+(fontspec)             Serif/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"CMU Sans
+(fontspec)             Serif/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CMUTypewriterText(0)' created for font
+(fontspec)             'CMU Typewriter Text' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"CMU Typewriter
+(fontspec)             Text/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"CMU Typewriter
+(fontspec)             Text/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"CMU Typewriter
+(fontspec)             Text/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"CMU
+(fontspec)             Typewriter Text/BI/OT:script=latn;language=dflt;"
+
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\polyglossia
+.sty
+Package: polyglossia 2025/12/01 v2.9 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+\l_xpg_alias_keyvals_int=\count297
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-latex
+.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-russi
+an.ldf
+File: gloss-russian.ldf polyglossia: module for Russian
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\xpg-cyrilli
+cnumbers.sty
+Package: xpg-cyrillicnumbers 2019/11/15 v0.2 Formatting of Cyrillic alphabetic 
+numbers
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 120.
+)
+
+Package polyglossia Info: Default language is russian
+
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-engli
+sh.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen161
+\calc@Bdimen=\dimen162
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count300
+\calc@Cskip=\skip67
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen163
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen164
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count301
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count302
+\leftroot@=\count303
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count304
+\DOTSCASE@=\count305
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen165
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count306
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count307
+\dotsspace@=\muskip17
+\c@parentequation=\count308
+\dspbrk@lvl=\count309
+\tag@help=\toks21
+\row@=\count310
+\column@=\count311
+\maxfields@=\count312
+\andhelp@=\toks22
+\eqnshift@=\dimen166
+\alignsep@=\dimen167
+\tagshift@=\dimen168
+\tagwidth@=\dimen169
+\totwidth@=\dimen170
+\lineht@=\dimen171
+\@envbody=\toks23
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+\g_MT_multlinerow_int=\count313
+\l_MT_multwidth_dim=\dimen172
+\origjot=\skip71
+\l_MT_shortvdotswithinadjustabove_dim=\dimen173
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen174
+\l_MT_above_intertext_sep=\dimen175
+\l_MT_below_intertext_sep=\dimen176
+\l_MT_above_shortintertext_sep=\dimen177
+\l_MT_below_shortintertext_sep=\dimen178
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen179
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count314
+\lst@gtempboxa=\box56
+\lst@token=\toks25
+\lst@length=\count315
+\lst@currlwidth=\dimen180
+\lst@column=\count316
+\lst@pos=\count317
+\lst@lostspace=\dimen181
+\lst@width=\dimen182
+\lst@newlines=\count318
+\lst@lineno=\count319
+\lst@maxwidth=\dimen183
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count320
+\lst@skipnumbers=\count321
+\lst@framebox=\box57
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count322
+\csq@gtype=\count323
+\csq@glevel=\count324
+\csq@qlevel=\count325
+\csq@maxlvl=\count326
+\csq@tshold=\count327
+\csq@ltx@everypar=\toks26
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+) (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count328
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen184
+\Hy@linkcounter=\count329
+\Hy@pagecounter=\count330
+ (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+) (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count331
+ (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4072.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4072.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count332
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen185
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count333
+\Field@Width=\dimen186
+\Fld@charsize=\dimen187
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring ON on input line 6102.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count334
+\c@Item=\count335
+\c@Hfootnote=\count336
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
+\pdfm@box=\box58
+\c@Hy@AnnotLevel=\count337
+\HyField@AnnotCount=\count338
+\Fld@listcount=\count339
+\c@bookmark@seq@number=\count340
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip72
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count341
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)) (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count342
+\float@exts=\toks29
+\float@box=\box59
+\@float@everytoks=\toks30
+\@floatcapt=\box60
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen188
+\Gin@req@width=\dimen189
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen190
+\pgfutil@tempdimb=\dimen191
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box61
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen192
+\pgf@y=\dimen193
+\pgf@xa=\dimen194
+\pgf@ya=\dimen195
+\pgf@xb=\dimen196
+\pgf@yb=\dimen197
+\pgf@xc=\dimen198
+\pgf@yc=\dimen199
+\pgf@xd=\dimen256
+\pgf@yd=\dimen257
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count343
+\c@pgf@countb=\count344
+\c@pgf@countc=\count345
+\c@pgf@countd=\count346
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count347
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-xetex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count348
+)))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count349
+\pgfsyssoftpath@bigbuffer@items=\count350
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen258
+\ar@mcellbox=\box62
+\extrarowheight=\dimen259
+\NC@list=\toks38
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box63
+)
+\everycr=\toks39
+\minrowclearance=\skip75
+\rownum=\count351
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen260
+\pgfmath@count=\count352
+\pgfmath@box=\box64
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count353
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen261
+\pgf@picmaxx=\dimen262
+\pgf@picminy=\dimen263
+\pgf@picmaxy=\dimen264
+\pgf@pathminx=\dimen265
+\pgf@pathmaxx=\dimen266
+\pgf@pathminy=\dimen267
+\pgf@pathmaxy=\dimen268
+\pgf@xx=\dimen269
+\pgf@xy=\dimen270
+\pgf@yx=\dimen271
+\pgf@yy=\dimen272
+\pgf@zx=\dimen273
+\pgf@zy=\dimen274
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen275
+\pgf@path@lasty=\dimen276
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen277
+\pgf@shorten@start@additional=\dimen278
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box65
+\pgf@hbox=\box66
+\pgf@layerbox@main=\box67
+\pgf@picture@serial@count=\count354
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen279
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen280
+\pgf@pt@y=\dimen281
+\pgf@pt@temp=\dimen282
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen283
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen284
+\pgf@sys@shading@range@num=\count355
+\pgf@shadingcount=\count356
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box68
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box69
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen285
+\pgf@nodesepend=\dimen286
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen287
+\pgffor@skip=\dimen288
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count357
+\pgfplotmarksize=\dimen289
+)
+\tikz@lastx=\dimen290
+\tikz@lasty=\dimen291
+\tikz@lastxsaved=\dimen292
+\tikz@lastysaved=\dimen293
+\tikz@lastmovetox=\dimen294
+\tikz@lastmovetoy=\dimen295
+\tikzleveldistance=\dimen296
+\tikzsiblingdistance=\dimen297
+\tikz@figbox=\box70
+\tikz@figbox@bg=\box71
+\tikz@tempbox=\box72
+\tikz@tempbox@bg=\box73
+\tikztreelevel=\count358
+\tikznumberofchildren=\count359
+\tikznumberofcurrentchild=\count360
+\tikz@fig@count=\count361
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count362
+\pgfmatrixcurrentcolumn=\count363
+\pgf@matrix@numberofcolumns=\count364
+)
+\tikz@expandcount=\count365
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+\t@pgfplots@toka=\toks45
+\t@pgfplots@tokb=\toks46
+\t@pgfplots@tokc=\toks47
+\pgfplots@tmpa=\dimen298
+\c@pgfplots@coordindex=\count366
+\c@pgfplots@scanlineindex=\count367
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks48
+\t@pgf@tokb=\toks49
+\t@pgf@tokc=\toks50
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count368
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex
+\c@pgfplotstable@counta=\count369
+\t@pgfplotstable@a=\toks51
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count370
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count371
+))))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen299
+\pgfdecoratedremainingdistance=\dimen300
+\pgfdecoratedinputsegmentcompleteddistance=\dimen301
+\pgfdecoratedinputsegmentremainingdistance=\dimen302
+\pgf@decorate@distancetomove=\dimen303
+\pgf@decorate@repeatstate=\count372
+\pgfdecorationsegmentamplitude=\dimen304
+\pgfdecorationsegmentlength=\dimen305
+)
+\tikz@lib@dec@box=\box74
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count373
+\pgfplots@xmin@reg=\dimen306
+\pgfplots@xmax@reg=\dimen307
+\pgfplots@ymin@reg=\dimen308
+\pgfplots@ymax@reg=\dimen309
+\pgfplots@zmin@reg=\dimen310
+\pgfplots@zmax@reg=\dimen311
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen312
+\pgfarrowlength=\dimen313
+\pgfarrowwidth=\dimen314
+\pgfarrowlinewidth=\dimen315
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'polyglossia' package.
+
+Package fontspec Info: 
+(fontspec)             Font family 'CMUSerif(1)' created for font 'CMU Serif'
+(fontspec)             with options [Ligatures=TeX,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"CMU
+(fontspec)             Serif/OT:script=cyrl;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"CMU
+(fontspec)             Serif/OT:script=cyrl;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"CMU
+(fontspec)             Serif/B/OT:script=cyrl;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"CMU
+(fontspec)             Serif/B/OT:script=cyrl;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"CMU
+(fontspec)             Serif/I/OT:script=cyrl;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"CMU
+(fontspec)             Serif/BI/OT:script=cyrl;language=dflt;mapping=tex-text;"
+
+
+ (vkr.aux)
+\openout1 = `vkr.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-9.86334pt
+* \headheight=80.35204pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=33.25204pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 35.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 35.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 35.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 35.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 35.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 35.
+LaTeX Font Info:    Redeclaring math accent \check on input line 35.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 35.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 35.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 35.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/CMUSerif(0)/m/n on input line 35.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/CMUSerif(0)/m/n on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/CMUSerif(0)/m/n --> TU/CMUSerif(0)/m/n on input line
+ 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/CMUSerif(0)/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/CMUSerif(0)/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/CMUSansSerif(0)/m/n on input line 3
+5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CMUTypewriterText(0)/m/n on input l
+ine 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/CMUSerif(0)/m/n --> TU/CMUSerif(0)/b/n on input line
+ 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/CMUSerif(0)/b/it on input line 35.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/CMUSansSerif(0)/b/n on input line 
+35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CMUTypewriterText(0)/b/n on input l
+ine 35.
+\c@lstlisting=\count374
+Package hyperref Info: Link coloring ON on input line 35.
+(vkr.out) (vkr.out)
+\@outlinefile=\write4
+\openout4 = `vkr.out'.
+
+
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(title.tex)
+(C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+LaTeX Info: Redefining \small on input line 58.
+LaTeX Info: Redefining \footnotesize on input line 69.
+LaTeX Info: Redefining \scriptsize on input line 80.
+LaTeX Info: Redefining \tiny on input line 81.
+LaTeX Info: Redefining \large on input line 82.
+LaTeX Info: Redefining \Large on input line 83.
+LaTeX Info: Redefining \LARGE on input line 84.
+LaTeX Info: Redefining \huge on input line 85.
+)
+\c@titlepages=\count375
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(56.9055pt, 497.92325pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=497.92325pt
+* \textheight=697.9838pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=33.25204pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 47.95204pt, for example:
+(fancyhdr)                \setlength{\headheight}{47.95204pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-47.95204pt}.
+
+[1
+
+
+] (C:\Users\Pavel\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=697.9838pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=33.25204pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (vkr.toc [2
+
+])
+\tf@toc=\write5
+\openout5 = `vkr.toc'.
+
+ (000_intro.tex [3]) (010_task.tex [4] [5] [6]) (020_related.tex [7] [8] [9]
+Overfull \hbox (2.74373pt too wide) in paragraph at lines 103--109
+\TU/CMUSerif(1)/m/n/14.4 ключевую особенность рабочего процесса биологов-морфом
+етристов. На
+ []
+
+[10]
+Overfull \hbox (1.28458pt too wide) in paragraph at lines 127--136
+\TU/CMUSerif(1)/m/n/14.4 менимость ограничена качеством входного материала: лис
+тья Sphagnum
+ []
+
+
+Overfull \hbox (0.61739pt too wide) in paragraph at lines 139--148
+\TU/CMUSerif(1)/m/n/14.4 ментации биомедицинских изображений при наличии размеч
+енного обу-
+ []
+
+[11] [12]) (030_solution.tex [13]
+Overfull \hbox (15.48744pt too wide) in paragraph at lines 19--20
+[]\TU/CMUSerif(1)/m/n/14.4 Возможность задать масштабный коэффициент ($\OT1/cmr
+/m/n/14.4 1 [] = []  []$\TU/CMUSerif(1)/m/n/14.4 )
+ []
+
+[14]
+Overfull \hbox (4.5869pt too wide) in paragraph at lines 40--41
+[]\TU/CMUSerif(1)/b/n/14.4 UC10. \TU/CMUSerif(1)/m/n/14.4 Просмотреть результат
+ы автоматического отбора (коррект-
+ []
+
+[15]
+
+Package fontspec Info: 
+(fontspec)             Font family 'CMUTypewriterText(1)' created for font
+(fontspec)             'CMU Typewriter Text' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"CMU Typewriter
+(fontspec)             Text/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"CMU Typewriter
+(fontspec)             Text/B/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"CMU Typewriter
+(fontspec)             Text/I/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"CMU
+(fontspec)             Typewriter Text/BI/OT:script=cyrl;language=dflt;"
+
+ [16] [17] [18]
+Overfull \hbox (3.45578pt too wide) in paragraph at lines 211--214
+[]\TU/CMUTypewriterText(1)/m/n/14.4 ImageWithMasks \TU/CMUSerif(1)/m/n/14.4 — д
+атакласс, хранящий изображение (\TU/CMUTypewriterText(1)/m/n/14.4 numpy \TU/CMU
+Serif(1)/m/n/14.4 RGB)
+ []
+
+
+Overfull \hbox (32.23177pt too wide) in paragraph at lines 215--218
+[]\TU/CMUTypewriterText(1)/m/n/14.4 LeafMetrics \TU/CMUSerif(1)/m/n/14.4 — резу
+льтат измерения одного листа: \TU/CMUTypewriterText(1)/m/n/14.4 length_px\TU/CM
+USerif(1)/m/n/14.4 , \TU/CMUTypewriterText(1)/m/n/14.4 width_px
+ []
+
+
+Overfull \hbox (43.13568pt too wide) in paragraph at lines 224--226
+\TU/CMUSerif(1)/m/n/14.4 px). Маски индексируются по имени изображения (\TU/CMU
+TypewriterText(1)/m/n/14.4 image_mask_0001.png
+ []
+
+
+Overfull \hbox (89.39337pt too wide) in paragraph at lines 234--237
+[]\TU/CMUSerif(1)/m/n/14.4 Щёлкнуть по листу левой кнопкой мыши (positive point
+) → \TU/CMUTypewriterText(1)/m/n/14.4 SegmentationCanvas
+ []
+
+
+Overfull \hbox (8.2062pt too wide) in paragraph at lines 238--239
+[]\TU/CMUSerif(1)/m/n/14.4 Подтвердить маску → файл PNG сохраняется на диск, \T
+U/CMUTypewriterText(1)/m/n/14.4 MasksBuffer
+ []
+
+[19]
+Overfull \hbox (11.77734pt too wide) in paragraph at lines 240--241
+[]\TU/CMUTypewriterText(1)/m/n/14.4 leaf_measure.measure_leaf() \TU/CMUSerif(1)
+/m/n/14.4 обрабатывает каждую маску → CSV
+ []
+
+
+Overfull \hbox (49.18698pt too wide) in paragraph at lines 249--250
+[]\TU/CMUSerif(1)/m/n/14.4 Из бинарной маски извлекается внешний контур (OpenCV
+ \TU/CMUTypewriterText(1)/m/n/14.4 findContours\TU/CMUSerif(1)/m/n/14.4 ). 
+ []
+
+
+Overfull \hbox (37.65414pt too wide) in paragraph at lines 259--261
+[]\TU/CMUSerif(1)/m/n/14.4 Для каждой обработанной маски генерируется изображен
+ие-визуализация
+ []
+
+[20]
+Overfull \hbox (8.68298pt too wide) in paragraph at lines 272--277
+[]\TU/CMUSerif(1)/m/n/14.4 Такая постановка задачи отличается от интерактивной 
+тем, что невоз-
+ []
+
+[21]
+Overfull \hbox (9.86697pt too wide) in paragraph at lines 342--348
+[]\TU/CMUSerif(1)/b/n/14.4 цветовые: \TU/CMUSerif(1)/m/n/14.4 изменение яркости
+ и контраста (для HybridLeafClassifier
+ []
+
+
+Overfull \hbox (0.40298pt too wide) in paragraph at lines 342--348
+\TU/CMUSerif(1)/m/n/14.4 размывать цветовой признак, по которому разделяются \T
+U/CMUTypewriterText(1)/m/n/14.4 good_leaf
+ []
+
+[22]
+Overfull \hbox (20.74855pt too wide) in paragraph at lines 374--377
+[]\TU/CMUSerif(1)/m/n/14.4 Входные данные классификатора — пара “фрагмент RGB-и
+зображения,
+ []
+
+
+Overfull \hbox (192.6341pt too wide) in paragraph at lines 415--416
+ [][] 
+ []
+
+[23] [24] [25]
+Overfull \hbox (9.2574pt too wide) in paragraph at lines 514--518
+[]\TU/CMUSerif(1)/m/n/14.4 Для компенсации дисбаланса классов используется взве
+шенная кросс-
+ []
+
+[26] [27]
+Overfull \hbox (7.22208pt too wide) in paragraph at lines 599--605
+\TU/CMUSerif(1)/m/n/14.4 чённой CNN-ветвью (класс \TU/CMUTypewriterText(1)/m/n/
+14.4 HybridLeafClassifier(use_cnn=False)\TU/CMUSerif(1)/m/n/14.4 ). Го-
+ []
+
+
+Overfull \hbox (0.675pt too wide) in paragraph at lines 599--605
+\TU/CMUSerif(1)/m/n/14.4 лова классификации в этом случае принимает на вход тол
+ько 64-мерный
+ []
+
+[28]
+Overfull \hbox (25.48561pt too wide) in paragraph at lines 648--657
+\TU/CMUSerif(1)/m/n/14.4 пункта ($\OT1/cmr/m/n/14.4 0[]9808 \OMS/cmsy/m/n/14.4 
+! \OT1/cmr/m/n/14.4 0[]8526$\TU/CMUSerif(1)/m/n/14.4 ). Основной источник дегра
+дации — класс \TU/CMUTypewriterText(1)/m/n/14.4 bad_leaf\TU/CMUSerif(1)/m/n/14.
+4 :
+ []
+
+
+Overfull \hbox (14.24203pt too wide) in paragraph at lines 648--657
+\TU/CMUSerif(1)/m/n/14.4 из 56 дефектных листьев $\OT1/cmr/m/n/14.4 15$ \TU/CMU
+Serif(1)/m/n/14.4 начинают классифицироваться как \TU/CMUTypewriterText(1)/m/n/
+14.4 good_leaf
+ []
+
+
+Overfull \hbox (22.76616pt too wide) in paragraph at lines 661--666
+[]\TU/CMUSerif(1)/m/n/14.4 Помимо supervised-классификации (HybridLeafClassifie
+r, подраздел [][]3.9[][]),
+ []
+
+[29] [30]
+Overfull \hbox (0.27179pt too wide) in paragraph at lines 736--739
+[]\TU/CMUSerif(1)/m/n/14.4 Метрики на бинарной задаче “корректный vs аномальный
+” (combined
+ []
+
+[31]
+Overfull \hbox (29.34848pt too wide) in paragraph at lines 774--783
+[]\TU/CMUSerif(1)/b/n/14.4 Сопоставление с HybridLeafClassifier. \TU/CMUSerif(1
+)/m/n/14.4 GMM и HybridLeafClassifier
+ []
+
+
+Overfull \hbox (23.70538pt too wide) in paragraph at lines 774--783
+\TU/CMUSerif(1)/m/n/14.4 первизией: GMM видит только хорошие листья, HybridLeaf
+Classifier —
+ []
+
+
+Overfull \hbox (10.03499pt too wide) in paragraph at lines 789--792
+\TU/CMUSerif(1)/m/n/14.4 представлен в датасете \TU/CMUTypewriterText(1)/m/n/14
+.4 AI_recog_sph \TU/CMUSerif(1)/m/n/14.4 четырьмя морфологическими груп-
+ []
+
+
+Overfull \hbox (130.0733pt too wide) in paragraph at lines 798--800
+[]\TU/CMUSerif(1)/b/n/14.4 Уровень 1 — стеблевые листья группы \TU/CMUSerif(1)/
+b/it/14.4 capillifolium \TU/CMUSerif(1)/m/n/14.4 (\TU/CMUTypewriterText(1)/m/n/
+14.4 lvl_1_capillifolium_gr\TU/CMUSerif(1)/m/n/14.4 ).
+ []
+
+
+Overfull \hbox (120.32452pt too wide) in paragraph at lines 801--803
+[]\TU/CMUSerif(1)/b/n/14.4 Уровень 2 — стеблевые листья группы \TU/CMUSerif(1)/
+b/it/14.4 girgensohnii \TU/CMUSerif(1)/m/n/14.4 (\TU/CMUTypewriterText(1)/m/n/1
+4.4 lvl_2_girgensohnii_gr\TU/CMUSerif(1)/m/n/14.4 ).
+ []
+
+
+Overfull \hbox (98.79652pt too wide) in paragraph at lines 804--806
+[]\TU/CMUSerif(1)/b/n/14.4 Уровень 3 — стеблевые листья группы \TU/CMUSerif(1)/
+b/it/14.4 fimbriatum \TU/CMUSerif(1)/m/n/14.4 (\TU/CMUTypewriterText(1)/m/n/14.
+4 lvl_3_fimbriatum_gr\TU/CMUSerif(1)/m/n/14.4 ).
+ []
+
+[32]
+Overfull \hbox (57.90054pt too wide) in paragraph at lines 808--817
+[]\TU/CMUSerif(1)/m/n/14.4 Для каждого типа листа обучается \TU/CMUSerif(1)/m/i
+t/14.4 отдельный \TU/CMUSerif(1)/m/n/14.4 экземпляр HybridLeafClassifier
+ []
+
+
+Overfull \hbox (186.73726pt too wide) in paragraph at lines 835--846
+ [][] 
+ []
+
+[33]
+Overfull \hbox (4.62054pt too wide) in paragraph at lines 855--857
+[]\TU/CMUSerif(1)/m/it/14.4 Эллиптическая маска\TU/CMUSerif(1)/m/n/14.4 : прове
+ряется симметричность профиля (ши-
+ []
+
+
+Overfull \hbox (12.64302pt too wide) in paragraph at lines 857--860
+\TU/CMUSerif(1)/m/n/14.4 ний из директории \TU/CMUTypewriterText(1)/m/n/14.4 te
+st/images/\TU/CMUSerif(1)/m/n/14.4 , получение маски через \TU/CMUTypewriterTex
+t(1)/m/n/14.4 Predictor\TU/CMUSerif(1)/m/n/14.4 ,
+ []
+
+) (040_experiment.tex [34]
+Overfull \hbox (5.45738pt too wide) in paragraph at lines 9--11
+\TU/CMUSerif(1)/m/n/14.4 с ручными измерениями, выполненными специалистом лабор
+атории Гер-
+ []
+
+
+Overfull \hbox (0.4446pt too wide) in paragraph at lines 27--28
+[]\TU/CMUSerif(1)/m/n/14.4 Для оценки погрешности измерений использовались след
+ующие мет-
+ []
+
+[35]
+Overfull \hbox (70.2876pt too wide) in paragraph at lines 67--71
+[]\TU/CMUSerif(1)/m/n/14.4 Средняя абсолютная погрешность составила MAE=62.7px 
+при RMSE=88.5px
+ []
+
+
+Overfull \hbox (5.87003pt too wide) in paragraph at lines 67--71
+\TU/CMUSerif(1)/m/n/14.4 и средней относительной погрешности MAPE=5.8%. Коэффиц
+иент кор-
+ []
+
+
+Overfull \hbox (31.5774pt too wide) in paragraph at lines 72--76
+[]\TU/CMUSerif(1)/m/n/14.4 Наибольшие отклонения наблюдаются у образцов 3284_00
+07 и 3275_0081
+ []
+
+[36]
+Overfull \hbox (138.81891pt too wide) in paragraph at lines 122--130
+ [][] 
+ []
+
+[37]
+Overfull \hbox (9.47337pt too wide) in paragraph at lines 132--138
+[]\TU/CMUSerif(1)/m/n/14.4 Измерение поперечных профилей демонстрирует высокую 
+точность —
+ []
+
+) (050_conclusion.tex [38]
+Overfull \hbox (2.06856pt too wide) in paragraph at lines 15--18
+\TU/CMUSerif(1)/m/n/14.4 ментов. Показано, что ни одно из рассмотренных решений
+ (ImageJ,
+ []
+
+[39]) (vkr.bbl [40] [41]) [42] (vkr.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+Package rerunfilecheck Info: File `vkr.out' has not changed.
+(rerunfilecheck)             Checksum: 1B8A3014AE6DB3BDD521995FDD443F34;6752.
+ ) 
+Here is how much of TeX's memory you used:
+ 38308 strings out of 402983
+ 911328 string characters out of 5448482
+ 1505711 words of memory out of 5000000
+ 66370 multiletter control sequences out of 15000+600000
+ 633778 words of font info for 146 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 113i,16n,139p,718b,900s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on vkr.xdv (42 pages, 592288 bytes).

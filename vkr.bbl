@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\hbox to.8em{--\hss--}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
+\cyrdash\hskip.2em\ignorespaces}
+
+\bibitem{Bookstein1991}
+\selectlanguageifdefined{english}
+\BibEmph{Bookstein~Fred~L.} Morphometric Tools for Landmark Data: Geometry and
+  Biology. \BibDash
+\newblock Cambridge~: Cambridge University Press, 1991.
+
+\bibitem{Bookstein1998}
+\selectlanguageifdefined{english}
+\BibEmph{Bookstein~Fred~L.} A Hundred Years of Morphometrics~// \BibEmph{Acta
+  Zoologica Academiae Scientiarum Hungaricae}. \BibDash
+\newblock 1998. \BibDash
+\newblock Vol.~44. \BibDash
+\newblock P.~7--59.
+
+\bibitem{ClymoHayward1982}
+\selectlanguageifdefined{english}
+\BibEmph{Clymo~R.~S., Hayward~P.~M.}
+  \href{http://dx.doi.org/10.1007/978-94-009-5891-3_8}{The Ecology of
+  Sphagnum}~// Bryophyte Ecology~/ Ed.\ by\ A.~J.~E.~Smith. \BibDash
+\newblock Dordrecht~: Springer, 1982. \BibDash
+\newblock P.~229--289.
+
+\bibitem{DrydenMardia1998}
+\selectlanguageifdefined{english}
+\BibEmph{Dryden~Ian~L., Mardia~Kanti~V.} Statistical Shape Analysis. \BibDash
+\newblock New York~: John Wiley \& Sons, 1998.
+
+\bibitem{Zhang2023}
+\selectlanguageifdefined{english}
+Faster Segment Anything: Towards Lightweight SAM for Mobile Applications~/
+  Chaoning~Zhang, Dongshen~Han, Yu~Qiao et~al.~// \BibEmph{arXiv preprint
+  arXiv:2306.14289}. \BibDash
+\newblock 2023. \BibDash
+\newblock URL: \BibUrl{https://arxiv.org/abs/2306.14289}.
+
+\bibitem{Schindelin2012}
+\selectlanguageifdefined{english}
+Fiji: an open-source platform for biological-image analysis~/
+  Johannes~Schindelin, Ignacio~Arganda-Carreras, Erwin~Frise et~al.~//
+  \href{http://dx.doi.org/10.1038/nmeth.2019}{\BibEmph{Nature Methods}}.
+  \BibDash
+\newblock 2012. \BibDash
+\newblock Vol.~9, no.~7. \BibDash
+\newblock P.~676--682.
+
+\bibitem{Rohlf2021}
+\selectlanguageifdefined{english}
+\BibEmph{Rohlf~F.~J.} tps{DIG}2, version 2.16 [software]. \BibDash
+\newblock New York: Stony Brook University, Department of Ecology and
+  Evolution. \BibDash
+\newblock 2021.
+
+\bibitem{Ronneberger2015}
+\selectlanguageifdefined{english}
+\BibEmph{Ronneberger~Olaf, Fischer~Philipp, Brox~Thomas}.
+  \href{http://dx.doi.org/10.1007/978-3-319-24574-4_28}{U-Net: Convolutional
+  Networks for Biomedical Image Segmentation}~// Medical Image Computing and
+  Computer-Assisted Intervention (MICCAI). \BibDash
+\newblock 2015. \BibDash
+\newblock P.~234--241.
+
+\bibitem{Rydin2006}
+\selectlanguageifdefined{english}
+\BibEmph{Rydin~H{\aa}kan, Gunnarsson~Ulf, Sundberg~Sebastian}.
+  \href{http://dx.doi.org/10.1007/978-3-540-31913-9_4}{The role of Sphagnum in
+  peatland development and persistence}~// Boreal Peatland Ecosystems~/ Ed.\
+  by\ R.~K.~Wieder, D.~H.~Vitt. \BibDash
+\newblock Heidelberg~: Springer, 2006. \BibDash
+\newblock Vol.~188 of \BibEmph{Ecological Studies}. \BibDash
+\newblock P.~47--65.
+
+\bibitem{Kirillov2023}
+\selectlanguageifdefined{english}
+Segment Anything~/ Alexander~Kirillov, Eric~Mintun, Nikhila~Ravi et~al.~//
+  \href{http://dx.doi.org/10.1109/ICCV51070.2023.00371}{\BibEmph{Proceedings of
+  the IEEE/CVF International Conference on Computer Vision (ICCV)}}. \BibDash
+\newblock 2023. \BibDash
+\newblock P.~4015--4026.
+
+\bibitem{Fahlgren2015}
+\selectlanguageifdefined{english}
+A versatile phenotyping system and analytics platform reveals diverse temporal
+  responses to water availability in Setaria~/ Noah~Fahlgren, Malia~Feldman,
+  Malia~A.~Gehan et~al.~//
+  \href{http://dx.doi.org/10.1016/j.molp.2015.06.005}{\BibEmph{Molecular
+  Plant}}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol.~8, no.~10. \BibDash
+\newblock P.~1520--1535.
+
+\end{thebibliography}
