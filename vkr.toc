@@ -9,26 +9,26 @@
 \contentsline {section}{\numberline {3}Описание решения}{14}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Требования к системе}{14}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Архитектура приложения}{16}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Диаграмма активностей}{16}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Диаграмма классов}{18}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Диаграмма последовательности}{19}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Алгоритм параметрических измерений}{20}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Полностью автоматический режим}{20}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Аугментация данных}{22}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Модель классификации: HybridLeafClassifier}{23}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}Модели one-class}{29}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Поддержка типов листьев мха Sphagnum}{32}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12}Стек технологий}{33}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13}Тестирование}{33}{subsection.3.13}%
-\contentsline {section}{\numberline {4}Эксперимент}{35}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Цель и методология}{35}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Метрики качества}{35}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Сравнение длин листьев}{36}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Сравнение поперечных профилей ширины}{37}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Итоговые показатели}{37}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Апробация}{38}{subsection.4.6}%
-\contentsline {section}{Заключение}{39}{section*.22}%
-\contentsline {section}{Список литературы}{41}{section*.23}%
+\contentsline {subsection}{\numberline {3.3}Конвейер обработки одного листа}{19}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Алгоритм параметрических измерений}{20}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Интерактивный режим сегментации}{22}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Пакетные режимы обработки}{25}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Полностью автоматический режим обработки}{27}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Отбор масок: классификатор листьев}{28}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Оптимизация производительности автоматической сегментации}{34}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Стек технологий}{36}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Тестирование}{37}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Сборка и публикация}{38}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Альтернативные подходы к отбору масок}{38}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Эксперимент}{41}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Цель и методология}{41}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Метрики качества}{41}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Сравнение длин листьев}{42}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Сравнение поперечных профилей ширины}{43}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Итоговые показатели}{43}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Апробация}{44}{subsection.4.6}%
+\contentsline {section}{Заключение}{45}{section*.17}%
+\contentsline {section}{Список литературы}{47}{section*.18}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
