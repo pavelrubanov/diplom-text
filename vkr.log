@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  1 MAY 2026 18:47
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  2 MAY 2026 13:58
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./vkr.tex
-(vkr.tex
+**c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
+(c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (matmex-diploma-custom.cls
@@ -1102,26 +1102,26 @@ ext;"
  (vkr.aux)
 \openout1 = `vkr.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1164,65 +1164,65 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
-LaTeX Font Info:    Redeclaring math accent \check on input line 36.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 41.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 41.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 41.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 41.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 41.
+LaTeX Font Info:    Redeclaring math accent \check on input line 41.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 41.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 41.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 36.
+(Font)              `operators' in the math version `normal' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/CMUSerif(0)/m/n on input line 36.
+(Font)                  OT1/cmr/m/n --> TU/CMUSerif(0)/m/n on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 36.
+(Font)              `operators' in the math version `bold' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/CMUSerif(0)/m/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> TU/CMUSerif(0)/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/CMUSerif(0)/m/n --> TU/CMUSerif(0)/m/n on input line
- 36.
+ 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/CMUSerif(0)/m/it on input line 36.
+(Font)                  OT1/cmr/m/it --> TU/CMUSerif(0)/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/CMUSerif(0)/b/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> TU/CMUSerif(0)/b/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/CMUSansSerif(0)/m/n on input line 3
-6.
+(Font)                  OT1/cmss/m/n --> TU/CMUSansSerif(0)/m/n on input line 4
+1.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/CMUTypewriterText(0)/m/n on input l
-ine 36.
+ine 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/CMUSerif(0)/m/n --> TU/CMUSerif(0)/b/n on input line
- 36.
+ 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/CMUSerif(0)/b/it on input line 36.
+(Font)                  OT1/cmr/bx/it --> TU/CMUSerif(0)/b/it on input line 41.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/CMUSansSerif(0)/b/n on input line 
-36.
+41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/CMUTypewriterText(0)/b/n on input l
-ine 36.
+ine 41.
 \c@lstlisting=\count375
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 41.
 (vkr.out) (vkr.out)
 \@outlinefile=\write4
 \openout4 = `vkr.out'.
@@ -1323,7 +1323,7 @@ File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
  (vkr.toc
-Overfull \hbox (6.34862pt too wide) in paragraph at lines 19--19
+Overfull \hbox (6.34862pt too wide) in paragraph at lines 17--17
  [][] [][][]\TU/CMUSerif(1)/m/n/14.4 Оптимизация производительности автоматичес
 кой сегмен- 
  []
@@ -1396,7 +1396,7 @@ Overfull \hbox (19.66856pt too wide) in paragraph at lines 183--192
 акет \TU/CMUTypewriterText(1)/m/n/14.4 mobile_sam
  []
 
-) (030_solution.tex [13]
+) (030_app.tex [13]
 Overfull \hbox (15.48744pt too wide) in paragraph at lines 19--20
 []\TU/CMUSerif(1)/m/n/14.4 Возможность задать масштабный коэффициент ($\OT1/cmr
 /m/n/14.4 1 [] = []  []$\TU/CMUSerif(1)/m/n/14.4 )
@@ -1409,61 +1409,42 @@ Overfull \hbox (3.16304pt too wide) in paragraph at lines 34--35
  []
 
 
-Overfull \hbox (43.83337pt too wide) in paragraph at lines 47--54
-\TU/CMUSerif(1)/m/n/14.4 ботки (\TU/CMUTypewriterText(1)/m/n/14.4 measurement_p
-ipeline.py\TU/CMUSerif(1)/m/n/14.4 ), источники фрагментов (\TU/CMUTypewriterTe
-xt(1)/m/n/14.4 sources.py\TU/CMUSerif(1)/m/n/14.4 ),
+Overfull \hbox (10.23651pt too wide) in paragraph at lines 54--57
+[]\TU/CMUSerif(1)/b/n/14.4 Классификатор ($[][][][][][][][][][][]$). \TU/CMUSer
+if(1)/m/n/14.4 Изолированный пакет с собствен-
  []
 
 
-Overfull \hbox (85.01581pt too wide) in paragraph at lines 47--54
-\TU/CMUSerif(1)/m/n/14.4 экспорт CSV/XLSX (\TU/CMUTypewriterText(1)/m/n/14.4 ex
-port.py\TU/CMUSerif(1)/m/n/14.4 ), модель данных изображения (\TU/CMUTypewriter
-Text(1)/m/n/14.4 image_data.py\TU/CMUSerif(1)/m/n/14.4 )
- []
-
-
-Overfull \hbox (36.1294pt too wide) in paragraph at lines 54--59
-\TU/CMUSerif(1)/m/n/14.4 логов (\TU/CMUTypewriterText(1)/m/n/14.4 runner.py\TU/
-CMUSerif(1)/m/n/14.4 ), точки входа в пакетные режимы (\TU/CMUTypewriterText(1)
-/m/n/14.4 measure_crops.py\TU/CMUSerif(1)/m/n/14.4 ,
+Overfull \hbox (55.22694pt too wide) in paragraph at lines 54--57
+\TU/CMUSerif(1)/m/n/14.4 ными зависимостями: фиксированный экстрактор признаков
+ MobileNetV3-
  []
 
 [15]
-Overfull \hbox (19.86533pt too wide) in paragraph at lines 115--122
-[]\TU/CMUSerif(1)/m/n/14.4 Точка входа — \TU/CMUTypewriterText(1)/m/n/14.4 src/
-main.py\TU/CMUSerif(1)/m/n/14.4 . Скрипт принимает аргумент \TU/CMUTypewriterTe
-xt(1)/m/n/14.4 --checkpoint
- []
-
-
-Overfull \hbox (2.1006pt too wide) in paragraph at lines 115--122
-\TU/CMUSerif(1)/m/n/14.4 с путём к весам MobileSAM, создаёт единственный экземп
-ляр \TU/CMUTypewriterText(1)/m/n/14.4 Predictor
- []
-
-
-Overfull \hbox (17.98857pt too wide) in paragraph at lines 115--122
-\TU/CMUSerif(1)/m/n/14.4 доступны три режима: интерактивная сегментация (\TU/CM
-UTypewriterText(1)/m/n/14.4 SegmentationWindow\TU/CMUSerif(1)/m/n/14.4 ),
- []
-
 File: figures/main_menu.png Graphic file (type bmp)
 <figures/main_menu.png>
-[16]
-Overfull \hbox (74.19174pt too wide) in paragraph at lines 130--138
-\TU/CMUSerif(1)/m/n/14.4 дают и потребляют файлы по единому шаблону: \TU/CMUTyp
-ewriterText(1)/m/n/14.4 {stem}_leaf_crop_{idx:04d}.png
+ [16]
+File: figures/segmentation_canvas.png Graphic file (type bmp)
+<figures/segmentation_canvas.png>
+ [17]
+Overfull \hbox (24.3053pt too wide) in paragraph at lines 170--174
+[]\TU/CMUSerif(1)/b/n/14.4 Буфер масок. \TU/CMUSerif(1)/m/n/14.4 Подтверждённые
+ маски попадают в список \TU/CMUTypewriterText(1)/m/n/14.4 MasksBuffer
  []
 
 
-Overfull \hbox (51.86856pt too wide) in paragraph at lines 130--138
-\TU/CMUSerif(1)/m/n/14.4 для фрагмента, \TU/CMUTypewriterText(1)/m/n/14.4 {stem
-}_mask_{idx:04d}.png \TU/CMUSerif(1)/m/n/14.4 для маски и \TU/CMUTypewriterText
-(1)/m/n/14.4 {crop_stem}_vis.png
+Overfull \hbox (5.79973pt too wide) in paragraph at lines 175--182
+[]\TU/CMUSerif(1)/b/n/14.4 Кнопка авто-сегментации. \TU/CMUSerif(1)/m/n/14.4 В 
+панели инструментов доступна кноп-
  []
 
-[17]
+[18]
+Overfull \hbox (0.40619pt too wide) in paragraph at lines 244--250
+\TU/CMUSerif(1)/m/n/14.4 классификацией её приводят к стандартному \TU/CMUSerif
+(1)/m/it/14.4 каноническому \TU/CMUSerif(1)/m/n/14.4 виду: глав-
+ []
+
+[19]
 File: figures/121_170_0035.jpg Graphic file (type bmp)
 <figures/121_170_0035.jpg>
 File: figures/121_170_0035_mask_0002.png Graphic file (type bmp)
@@ -1471,21 +1452,30 @@ File: figures/121_170_0035_mask_0002.png Graphic file (type bmp)
 File: figures/121_170_0035_leaf_crop_0002.png Graphic file (type bmp)
 <figures/121_170_0035_leaf_crop_0002.png>
 
-Overfull \hbox (48.62697pt too wide) in paragraph at lines 180--187
+Overfull \hbox (48.62697pt too wide) in paragraph at lines 276--281
 \TU/CMUSerif(1)/m/n/14.4 мальной площади и заполнение получившейся области чере
 з \TU/CMUTypewriterText(1)/m/n/14.4 cv2.drawContours
  []
 
-[18]
-Overfull \hbox (25.47244pt too wide) in paragraph at lines 198--209
-[]\TU/CMUSerif(1)/b/n/14.4 Шаг 3: дедупликация набора масок (\TU/CMUTypewriterT
-ext(1)/b/n/14.4 dedupe_and_transform_leaf\TU/CMUSerif(1)/b/n/14.4 ).
+
+Overfull \hbox (7.38538pt too wide) in paragraph at lines 282--295
+\TU/CMUSerif(1)/m/n/14.4 определяется методом главных компонент (Principal Comp
+onent Analysis,
  []
 
+
+Overfull \hbox (39.03723pt too wide) in paragraph at lines 282--295
+\TU/CMUSerif(1)/m/n/14.4 ковариации $\OT1/cmr/m/n/14.4 2 \OMS/cmsy/m/n/14.4 ^^B
+ \OT1/cmr/m/n/14.4 2$\TU/CMUSerif(1)/m/n/14.4 , её собственные векторы вычисляю
+тся через \TU/CMUTypewriterText(1)/m/n/14.4 np.linalg.eigh\TU/CMUSerif(1)/m/n/1
+4.4 .
+ []
+
+[20]
 File: figures/metrics_visualization.png Graphic file (type bmp)
 <figures/metrics_visualization.png>
-[19]
-Overfull \hbox (7.52477pt too wide) in paragraph at lines 226--231
+
+Overfull \hbox (7.52477pt too wide) in paragraph at lines 314--319
 \TU/CMUSerif(1)/m/n/14.4 та: $\OML/cmm/m/it/14.4 L \OT1/cmr/m/n/14.4 = (\OML/cm
 m/m/it/14.4 y[] \OMS/cmsy/m/n/14.4 ^^@ \OML/cmm/m/it/14.4 y[] \OT1/cmr/m/n/14.4
  + 1) \OMS/cmsy/m/n/14.4 ^^A \OML/cmm/m/it/14.4 s$\TU/CMUSerif(1)/m/n/14.4 , гд
@@ -1493,107 +1483,60 @@ m/m/it/14.4 y[] \OMS/cmsy/m/n/14.4 ^^@ \OML/cmm/m/it/14.4 y[] \OT1/cmr/m/n/14.4
 пиксель),
  []
 
-[20]
-File: figures/segmentation_canvas.png Graphic file (type bmp)
-<figures/segmentation_canvas.png>
- [21]
-Overfull \hbox (7.55818pt too wide) in paragraph at lines 276--285
-\TU/CMUSerif(1)/m/n/14.4 PNG-файлов выполняется в пуле фоновых потоков (\TU/CMU
-TypewriterText(1)/m/n/14.4 ThreadPoolExecutor
- []
-
-
-Overfull \hbox (5.79973pt too wide) in paragraph at lines 286--292
-[]\TU/CMUSerif(1)/b/n/14.4 Кнопка авто-сегментации. \TU/CMUSerif(1)/m/n/14.4 В 
-панели инструментов доступна кноп-
- []
-
-[22] [23]
+[21]
 File: figures/measure_metrics_settings_menu.png Graphic file (type bmp)
 <figures/measure_metrics_settings_menu.png>
-
-Overfull \hbox (42.95335pt too wide) in paragraph at lines 367--373
-\TU/CMUSerif(1)/m/n/14.4 сохранены интерактивным режимом в формат \TU/CMUTypewr
-iterText(1)/m/n/14.4 {stem}_leaf_crop_{idx}.png\TU/CMUSerif(1)/m/n/14.4 ).
+ [22] [23]
+Overfull \hbox (52.11237pt too wide) in paragraph at lines 378--381
+[]\TU/CMUSerif(1)/b/n/14.4 Шаг 1: генерация кандидатов. \TU/CMUSerif(1)/m/n/14.
+4 Запускается \TU/CMUTypewriterText(1)/m/n/14.4 SamAutomaticMaskGenerator
  []
 
-
-Overfull \hbox (7.52942pt too wide) in paragraph at lines 367--373
-\TU/CMUSerif(1)/m/n/14.4 ного файла читается RGB-изображение и сразу подаётся в
- \TU/CMUTypewriterText(1)/m/n/14.4 measure_leaf\TU/CMUSerif(1)/m/n/14.4 .
- []
-
-
-Overfull \hbox (4.85098pt too wide) in paragraph at lines 374--386
-\TU/CMUSerif(1)/m/n/14.4 полученные фрагменты пропускаются через классификатор 
-отбора (раз-
- []
-
-[24] [25]
-Overfull \hbox (41.02264pt too wide) in paragraph at lines 448--455
-\TU/CMUSerif(1)/m/n/14.4 ки \TU/CMUTypewriterText(1)/m/n/14.4 Predictor\TU/CMUS
-erif(1)/m/n/14.4 ) с параметрами \TU/CMUTypewriterText(1)/m/n/14.4 points_per_s
-ide$ \OT1/cmr/m/n/14.4 = 8$\TU/CMUSerif(1)/m/n/14.4 , \TU/CMUTypewriterText(1)/
-m/n/14.4 points_per_batch$ \OT1/cmr/m/n/14.4 =
- []
-
-[26]
+[24]
 File: figures/segmentation_canvas_autosegment_result.png Graphic file (type bmp
 )
 <figures/segmentation_canvas_autosegment_result.png>
- [27]
-Overfull \hbox (8.76291pt too wide) in paragraph at lines 515--529
-\TU/CMUSerif(1)/m/n/14.4 ImageNet. Финальный классификационный слой заменяется 
-на \TU/CMUTypewriterText(1)/m/n/14.4 Identity\TU/CMUSerif(1)/m/n/14.4 ,
- []
-
-[28] [29]
-Overfull \hbox (9.30058pt too wide) in paragraph at lines 563--567
-[]\TU/CMUSerif(1)/m/n/14.4 На этапе фильтрации в \TU/CMUTypewriterText(1)/m/n/1
-4.4 AutoSegmentSource \TU/CMUSerif(1)/m/n/14.4 сохраняются только фраг-
+ [25]
+Overfull \hbox (53.68137pt too wide) in paragraph at lines 441--448
+\TU/CMUSerif(1)/m/n/14.4 жается соответствующая обученная модель отбора (\TU/CM
+UTypewriterText(1)/m/n/14.4 models/model_<type>.pkl\TU/CMUSerif(1)/m/n/14.4 ).
  []
 
 
-Overfull \hbox (11.28777pt too wide) in paragraph at lines 570--582
-\TU/CMUSerif(1)/m/n/14.4 рутся “хорошие” листья из соответствующей подпапки \TU
-/CMUTypewriterText(1)/m/n/14.4 good_leaf_<type>\TU/CMUSerif(1)/m/n/14.4 ,
+Overfull \hbox (1.55342pt too wide) in paragraph at lines 441--448
+\TU/CMUSerif(1)/m/n/14.4 Формат экспорта по умолчанию — XLSX, в столбце \TU/CMU
+TypewriterText(1)/m/n/14.4 crop \TU/CMUSerif(1)/m/n/14.4 которого встро-
  []
 
-[30] [31]
-Underfull \hbox (badness 2173) in paragraph at lines 651--651
-[]\TU/CMUSerif(1)/m/n/14.4 Таблица 5: []Покомпонентные метрики классификатора (
-5-кратная
- []
-
-[32]
-Overfull \hbox (184.61356pt too wide) in paragraph at lines 712--725
+[26]
+Overfull \hbox (184.61356pt too wide) in paragraph at lines 469--482
  [][] 
  []
 
-[33]
-Overfull \hbox (22.11661pt too wide) in paragraph at lines 739--750
+
+Overfull \hbox (22.11661pt too wide) in paragraph at lines 496--507
 \TU/CMUSerif(1)/m/n/14.4 После шага 1 конвейер выглядел как метод \TU/CMUTypewr
 iterText(1)/m/n/14.4 predict_all \TU/CMUSerif(1)/m/n/14.4 обёртки \TU/CMUTypewr
 iterText(1)/m/n/14.4 Predictor
  []
 
 
-Overfull \hbox (65.30219pt too wide) in paragraph at lines 739--750
+Overfull \hbox (65.30219pt too wide) in paragraph at lines 496--507
 \TU/CMUSerif(1)/m/n/14.4 обёртки \TU/CMUTypewriterText(1)/m/n/14.4 Predictor \T
 U/CMUSerif(1)/m/n/14.4 в новую функцию (\TU/CMUTypewriterText(1)/m/n/14.4 auto_
 segment \TU/CMUSerif(1)/m/n/14.4 в модуле \TU/CMUTypewriterText(1)/m/n/14.4 lea
 f_pipeline.py\TU/CMUSerif(1)/m/n/14.4 ),
  []
 
-[34] [35]
-Overfull \hbox (59.81734pt too wide) in paragraph at lines 820--826
+[27] [28] [29]
+Overfull \hbox (59.81734pt too wide) in paragraph at lines 583--589
 \TU/CMUSerif(1)/m/n/14.4 гурация — \TU/CMUTypewriterText(1)/m/n/14.4 packaging/
 sphagnum.spec\TU/CMUSerif(1)/m/n/14.4 , скрипт — \TU/CMUTypewriterText(1)/m/n/1
 4.4 packaging/build_windows.ps1\TU/CMUSerif(1)/m/n/14.4 ).
  []
 
-[36]
-Overfull \hbox (0.53262pt too wide) in paragraph at lines 827--834
+
+Overfull \hbox (0.53262pt too wide) in paragraph at lines 590--597
 \TU/CMUSerif(1)/m/n/14.4 тов \TU/CMUTypewriterText(1)/m/n/14.4 mobile_sam\TU/CM
 USerif(1)/m/n/14.4 , \TU/CMUTypewriterText(1)/m/n/14.4 timm \TU/CMUSerif(1)/m/n
 /14.4 (модели регистрируются декораторами) и \TU/CMUTypewriterText(1)/m/n/14.4 
@@ -1601,38 +1544,80 @@ xgboost
  []
 
 
-Overfull \hbox (10.29417pt too wide) in paragraph at lines 835--843
+Overfull \hbox (10.29417pt too wide) in paragraph at lines 598--606
 []\TU/CMUSerif(1)/m/n/14.4 Отдельно потребовался обработчик времени выполнения 
 для PyTorch:
  []
 
 
-Overfull \hbox (11.63336pt too wide) in paragraph at lines 835--843
+Overfull \hbox (11.63336pt too wide) in paragraph at lines 598--606
 \TU/CMUTypewriterText(1)/m/n/14.4 LoadLibraryExW\TU/CMUSerif(1)/m/n/14.4 , несо
 вместимый с контекстом замороженного PyInstaller-
  []
 
 
-Overfull \hbox (21.76608pt too wide) in paragraph at lines 835--843
+Overfull \hbox (21.76608pt too wide) in paragraph at lines 598--606
 \TU/CMUSerif(1)/m/n/14.4 приложения. Обработчик (\TU/CMUTypewriterText(1)/m/n/1
 4.4 packaging/runtime_hooks/torch_dll_path.py\TU/CMUSerif(1)/m/n/14.4 )
  []
 
 
-Overfull \hbox (0.8942pt too wide) in paragraph at lines 835--843
+Overfull \hbox (0.8942pt too wide) in paragraph at lines 598--606
 \TU/CMUSerif(1)/m/n/14.4 флагами; собственный цикл \TU/CMUTypewriterText(1)/m/n
 /14.4 torch \TU/CMUSerif(1)/m/n/14.4 затем получает уже готовые дескрип-
  []
 
 
-Overfull \hbox (16.80708pt too wide) in paragraph at lines 844--849
+Overfull \hbox (16.80708pt too wide) in paragraph at lines 607--612
 []\TU/CMUSerif(1)/m/n/14.4 Итоговый дистрибутив \TU/CMUTypewriterText(1)/m/n/14
 .4 dist/sphagnum-cpu-win64/ \TU/CMUSerif(1)/m/n/14.4 занимает $\OMS/cmsy/m/n/14
 .4 ^^Y \OT1/cmr/m/n/14.4 920$ \TU/CMUSerif(1)/m/n/14.4 МБ
  []
 
+[30]) (040_classifier.tex [31]
+Overfull \hbox (11.01326pt too wide) in paragraph at lines 4--4
+[]\TU/CMUSerif(1)/b/n/20.74 Обучение классификатора отбора листьев 
+ []
 
-Overfull \hbox (22.02121pt too wide) in paragraph at lines 853--859
+
+Overfull \hbox (15.2766pt too wide) in paragraph at lines 10--17
+[]\TU/CMUSerif(1)/m/n/14.4 Полностью автоматический режим обработки приложения 
+(раздел [][]3.6[][])
+ []
+
+
+Overfull \hbox (30.80458pt too wide) in paragraph at lines 32--36
+\TU/CMUSerif(1)/m/n/14.4 ко фрагменты, классифицированные как \TU/CMUTypewriter
+Text(1)/m/n/14.4 good_leaf\TU/CMUSerif(1)/m/n/14.4 ; разделение на \TU/CMUTypew
+riterText(1)/m/n/14.4 bad_leaf
+ []
+
+[32]
+Overfull \hbox (8.76291pt too wide) in paragraph at lines 62--75
+\TU/CMUSerif(1)/m/n/14.4 ImageNet. Финальный классификационный слой заменяется 
+на \TU/CMUTypewriterText(1)/m/n/14.4 Identity\TU/CMUSerif(1)/m/n/14.4 ,
+ []
+
+[33]
+Overfull \hbox (4.5257pt too wide) in paragraph at lines 100--100
+[]\TU/CMUSerif(1)/b/n/17.28 Поддержка нескольких типов листьев \TU/CMUSerif(1)/
+b/it/17.28 Sphagnum 
+ []
+
+
+Overfull \hbox (11.28777pt too wide) in paragraph at lines 103--115
+\TU/CMUSerif(1)/m/n/14.4 рутся “хорошие” листья из соответствующей подпапки \TU
+/CMUTypewriterText(1)/m/n/14.4 good_leaf_<type>\TU/CMUSerif(1)/m/n/14.4 ,
+ []
+
+[34] [35]
+Underfull \hbox (badness 2173) in paragraph at lines 186--186
+[]\TU/CMUSerif(1)/m/n/14.4 Таблица 6: []Покомпонентные метрики классификатора (
+5-кратная
+ []
+
+[36]
+Overfull \hbox (22.02121pt too wide) in paragraph at lines 230--236
 \TU/CMUSerif(1)/m/n/14.4 (уровень 0, $\OT1/cmr/m/n/14.4 778$ \TU/CMUSerif(1)/m/
 n/14.4 фрагментов: $\OT1/cmr/m/n/14.4 347$ \TU/CMUTypewriterText(1)/m/n/14.4 go
 od_leaf \TU/CMUSerif(1)/m/n/14.4 + $\OT1/cmr/m/n/14.4 280$ \TU/CMUTypewriterTex
@@ -1641,18 +1626,18 @@ MUTypewriterText(1)/m/n/14.4 non_leaf\TU/CMUSerif(1)/m/n/14.4 );
  []
 
 [37]
-Overfull \hbox (65.58557pt too wide) in paragraph at lines 865--880
+Overfull \hbox (65.58557pt too wide) in paragraph at lines 242--257
  [][] 
  []
 
 
-Overfull \hbox (7.64462pt too wide) in paragraph at lines 882--899
+Overfull \hbox (7.64462pt too wide) in paragraph at lines 259--276
 \TU/CMUSerif(1)/m/n/14.4 выходные представления конкатенировались и подавались 
 в общую клас-
  []
 
-) (040_experiment.tex
-Overfull \hbox (47.90698pt too wide) in paragraph at lines 900--3
+) (050_experiment.tex
+Overfull \hbox (47.90698pt too wide) in paragraph at lines 277--3
 \TU/CMUSerif(1)/m/n/14.4 оценкой, гауссова смесь (GMM) на 21-мерных ручных приз
 наках и \TU/CMUTypewriterText(1)/m/n/14.4 OneClassSVM
  []
@@ -1698,7 +1683,7 @@ Overfull \hbox (9.47337pt too wide) in paragraph at lines 132--138
 точность —
  []
 
-) (050_conclusion.tex [43]
+) (060_conclusion.tex [43]
 Overfull \hbox (2.06856pt too wide) in paragraph at lines 15--18
 \TU/CMUSerif(1)/m/n/14.4 ментов. Показано, что ни одно из рассмотренных решений
  (ImageJ,
@@ -1710,15 +1695,15 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `vkr.out' has not changed.
-(rerunfilecheck)             Checksum: E22F1411C0945939162BF01C8C5DFF91;7390.
+(rerunfilecheck)             Checksum: A79CF5C77D9872ACD8432DD7DCACC2EB;8232.
  ) 
 Here is how much of TeX's memory you used:
- 38591 strings out of 402983
- 920218 string characters out of 5448482
- 1510711 words of memory out of 5000000
- 66612 multiletter control sequences out of 15000+600000
- 635076 words of font info for 170 fonts, out of 8000000 for 9000
+ 38549 strings out of 402983
+ 919646 string characters out of 5448482
+ 1506711 words of memory out of 5000000
+ 66567 multiletter control sequences out of 15000+600000
+ 635068 words of font info for 169 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,14n,139p,718b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,14n,139p,758b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on vkr.xdv (47 pages, 703672 bytes).
+Output written on vkr.pdf (47 pages).

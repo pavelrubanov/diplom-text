@@ -7,28 +7,32 @@
 \contentsline {subsection}{\numberline {2.2}Сравнительный анализ}{9}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Выбор модели сегментации}{9}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Стек технологий}{13}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Описание решения}{14}{section.3}%
+\contentsline {section}{\numberline {3}Разработка приложения}{14}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Требования к системе}{14}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Архитектура приложения}{15}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Конвейер обработки одного листа}{18}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Алгоритм параметрических измерений}{19}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Интерактивный режим сегментации}{21}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Пакетные режимы обработки}{24}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Полностью автоматический режим обработки}{26}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Отбор масок: классификатор листьев}{28}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Оптимизация производительности автоматической сегментации}{33}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}Тестирование}{36}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Сборка и публикация}{37}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12}Альтернативные подходы к отбору масок}{37}{subsection.3.12}%
-\contentsline {section}{\numberline {4}Эксперимент}{40}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Цель и методология}{40}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Метрики качества}{40}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Сравнение длин листьев}{41}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Сравнение поперечных профилей ширины}{42}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Итоговые показатели}{42}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Апробация}{43}{subsection.4.6}%
-\contentsline {section}{Заключение}{44}{section*.16}%
-\contentsline {section}{Список литературы}{46}{section*.17}%
+\contentsline {subsection}{\numberline {3.3}Интерактивный режим сегментации}{17}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Канонизация листа}{20}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Параметрические измерения листа}{21}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Полностью автоматический режим обработки}{24}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Оптимизация производительности автоматической сегментации}{26}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Тестирование}{29}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Сборка и публикация}{30}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Обучение классификатора отбора листьев}{32}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Постановка задачи}{32}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Архитектура классификатора}{33}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Поддержка нескольких типов листьев \textit {Sphagnum}}{34}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Процедура обучения}{35}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Результаты}{35}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Альтернативные подходы к отбору масок}{37}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Эксперимент}{40}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Цель и методология}{40}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Метрики качества}{40}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Сравнение длин листьев}{41}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Сравнение поперечных профилей ширины}{42}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Итоговые показатели}{42}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Апробация}{43}{subsection.5.6}%
+\contentsline {section}{Заключение}{44}{section*.15}%
+\contentsline {section}{Список литературы}{46}{section*.16}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
@@ -40,6 +44,8 @@
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
+\xpg@aux {}{english}
+\xpg@aux {}{russian}
 \xpg@aux {}{russian}
 \xpg@aux {}{russian}
 \xpg@aux {}{russian}

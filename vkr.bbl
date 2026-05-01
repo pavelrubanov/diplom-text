@@ -56,6 +56,13 @@ Fiji: an open-source platform for biological-image analysis~/
 \newblock Vol.~9, no.~7. \BibDash
 \newblock P.~676--682.
 
+\bibitem{Jolliffe2002}
+\selectlanguageifdefined{english}
+\BibEmph{Jolliffe~Ian~T.} \href{http://dx.doi.org/10.1007/b98835}{Principal
+  Component Analysis}. Springer Series in Statistics. \BibDash
+\newblock 2 edition. \BibDash
+\newblock New York~: Springer, 2002.
+
 \bibitem{Rohlf2021}
 \selectlanguageifdefined{english}
 \BibEmph{Rohlf~F.~J.} tps{DIG}2, version 2.16 [software]. \BibDash

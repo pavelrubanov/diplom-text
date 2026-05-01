@@ -15,7 +15,12 @@
 % \usepackage{makecell}
 \usepackage{tikz}
 \usepackage{multirow}
+\usepackage{url}
 \usetikzlibrary{shapes.geometric, shapes.misc, arrows.meta, positioning, fit, calc, matrix, backgrounds}
+
+% Команда для имён файлов и идентификаторов кода: моноширинный шрифт + разрешённые
+% переносы строк по символам _, ., / (на основе механизма пакета url).
+\DeclareUrlCommand{\code}{\urlstyle{tt}}
 
 
 \def\bbljan{Jan.}
@@ -43,9 +48,10 @@
 \input{000_intro}
 \input{010_task}
 \input{020_related}
-\input{030_solution}
-\input{040_experiment}
-\input{050_conclusion}
+\input{030_app}
+\input{040_classifier}
+\input{050_experiment}
+\input{060_conclusion}
 
 \setmonofont{CMU Typewriter Text}
 \bibliographystyle{ugost2008ls}
