@@ -1,22 +1,22 @@
 # Fdb version 4
-["bibtex vkr"] 1777318590.24369 "vkr.aux" "vkr.bbl" "vkr" 1777318596.27182 0
+["bibtex vkr"] 1777650186.78882 "vkr.aux" "vkr.bbl" "vkr" 1777650450.29243 0
   "./ugost2008ls.bst" 1774714251.71822 43109 1ff9efac036b66c7f4bb7c8999e7e194 ""
   "./vkr.bib" 1774780300.22158 27699 9c3f4ae33d2ef219b786fe61202242ad ""
-  "vkr.aux" 1777318593.45026 17998 29aa1e3bae31e9d66ac36353f7166d77 "xelatex"
+  "vkr.aux" 1777650447.00178 18079 39af1e2495776f588a18fd40c8d159e5 "xelatex"
   (generated)
   "vkr.bbl"
   "vkr.blg"
   (rewritten before read)
-["xdvipdfmx"] 1777318594.18082 "vkr.xdv" "vkr.pdf" "vkr" 1777318596.28492 0
-  "vkr.xdv" 1777318593.45327 715036 f12cd806034e1cea4dd6639ce8ae929a "xelatex"
+["xdvipdfmx"] 1777650447.78893 "vkr.xdv" "vkr.pdf" "vkr" 1777650450.30495 0
+  "vkr.xdv" 1777650447.00522 703672 763a466e29f125b1e764de9cdbeb58a2 "xelatex"
   (generated)
   "vkr.pdf"
   (rewritten before read)
-["xelatex"] 1777318590.45778 "vkr.tex" "vkr.xdv" "vkr" 1777318596.27217 0
-  "000_intro.tex" 1774723965.67915 3861 3cff089d1fb077ea8f434f4a4e52a735 ""
-  "010_task.tex" 1774780710.82815 4148 4da9bdc5b2e9d864ddda7f010dc17af3 ""
-  "020_related.tex" 1774780699.0517 17794 78370391cee0bdbe182fd2e634fd0a3b ""
-  "030_solution.tex" 1777318576.82921 77395 acc94af42ae19ca69a6a92ccc4aab8f3 ""
+["xelatex"] 1777650443.93013 "vkr.tex" "vkr.xdv" "vkr" 1777650450.29277 0
+  "000_intro.tex" 1777632588.85228 4591 f2edc585cdad26550c734d8701c54964 ""
+  "010_task.tex" 1777632457.54426 4612 1beeff33a33d0c152baa9a156afce910 ""
+  "020_related.tex" 1777648413.04568 18116 ac9325302fa2857a028c074e19f3e5ae ""
+  "030_solution.tex" 1777650436.37699 73970 2379c114374fc2c93fc8ddb03389424f ""
   "040_experiment.tex" 1775668995.10924 10046 7109c3455f6e84c12865f6753697b47b ""
   "050_conclusion.tex" 1774718373.01827 3116 7d59b3d55e7e94a78009fc2c8b476b11 ""
   "C:/Users/Pavel/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1774715336.10325 27177068 4d655ddc41d3b89000c59857797bac11 ""
@@ -28,6 +28,7 @@
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -230,6 +231,9 @@
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
+  "figures/121_170_0035.jpg" 1760971759.02635 595715 0684a65c0b1f00e5ebfe87227526c431 ""
+  "figures/121_170_0035_leaf_crop_0002.png" 1777242446.84827 503139 8af5249ea3d603b53ec3ff31d6b95c56 ""
+  "figures/121_170_0035_mask_0002.png" 1777242446.88431 618332 e22dbe0b09f8165a4f20a5938f99d8b5 ""
   "figures/main_menu.png" 1777317578.52704 19909 5ec14ac12846028768564479e9af59b6 ""
   "figures/measure_metrics_settings_menu.png" 1777317620.98103 25573 195069e53a6933c43ef1cb32f117b3be ""
   "figures/metrics_visualization.png" 1777317705.23425 440108 379200212096880f23963418def76edf ""
@@ -237,11 +241,11 @@
   "figures/segmentation_canvas_autosegment_result.png" 1777317536.58659 1685076 fe46760e3becfd45ace84d11883efe6d ""
   "matmex-diploma-custom.cls" 1774714251.70022 23005 e0793c7758b2f8e794581543457cbca4 ""
   "title.tex" 1774724661.15542 8992 98165870c7c8e8a3122d544f16e68d9a ""
-  "vkr.aux" 1777318593.45026 17998 29aa1e3bae31e9d66ac36353f7166d77 "xelatex"
-  "vkr.bbl" 1777318590.41159 4076 9494e78bae7989424e69a8aa94d76c27 "bibtex vkr"
-  "vkr.out" 1777318593.45227 7391 c60f5e92a3ec9333e5664f25d70c5520 "xelatex"
+  "vkr.aux" 1777650447.00178 18079 39af1e2495776f588a18fd40c8d159e5 "xelatex"
+  "vkr.bbl" 1777650186.95892 4076 9494e78bae7989424e69a8aa94d76c27 "bibtex vkr"
+  "vkr.out" 1777650447.00373 7390 e22f1411c0945939162bf01c8c5dff91 "xelatex"
   "vkr.tex" 1777318432.35555 1203 d7bbb9b38a0075a08e9e2672ff709311 ""
-  "vkr.toc" 1777318593.45327 3769 4199713c25885c372014a55127dcce7a "xelatex"
+  "vkr.toc" 1777650447.00522 3766 05c05633734c025ebf6ee1b7f199b796 "xelatex"
   (generated)
   "vkr.aux"
   "vkr.log"

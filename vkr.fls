@@ -408,6 +408,7 @@ INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cme
 INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT .\030_solution.tex
 INPUT .\030_solution.tex
 INPUT .\030_solution.tex
@@ -416,6 +417,19 @@ INPUT 030_solution.tex
 INPUT .\figures\main_menu.png
 INPUT .\figures\main_menu.png
 INPUT .\figures\main_menu.png
+INPUT .\figures\121_170_0035.jpg
+INPUT .\figures\121_170_0035.jpg
+INPUT .\figures\121_170_0035.jpg
+INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Pavel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT .\figures\121_170_0035_mask_0002.png
+INPUT .\figures\121_170_0035_mask_0002.png
+INPUT .\figures\121_170_0035_mask_0002.png
+INPUT .\figures\121_170_0035_leaf_crop_0002.png
+INPUT .\figures\121_170_0035_leaf_crop_0002.png
+INPUT .\figures\121_170_0035_leaf_crop_0002.png
 INPUT .\figures\metrics_visualization.png
 INPUT .\figures\metrics_visualization.png
 INPUT .\figures\metrics_visualization.png
