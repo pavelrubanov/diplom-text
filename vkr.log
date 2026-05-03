@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  2 MAY 2026 13:58
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  3 MAY 2026 14:03
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
-(c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
+**./vkr.tex
+(vkr.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (matmex-diploma-custom.cls
@@ -1397,25 +1397,25 @@ Overfull \hbox (19.66856pt too wide) in paragraph at lines 183--192
  []
 
 ) (030_app.tex [13]
-Overfull \hbox (15.48744pt too wide) in paragraph at lines 19--20
+Overfull \hbox (15.48744pt too wide) in paragraph at lines 20--21
 []\TU/CMUSerif(1)/m/n/14.4 Возможность задать масштабный коэффициент ($\OT1/cmr
 /m/n/14.4 1 [] = []  []$\TU/CMUSerif(1)/m/n/14.4 )
  []
 
 [14]
-Overfull \hbox (3.16304pt too wide) in paragraph at lines 34--35
+Overfull \hbox (3.16304pt too wide) in paragraph at lines 35--36
 []\TU/CMUSerif(1)/m/n/14.4 Единый формат хранения масок (PNG) и измерений (CSV 
 / XLSX)
  []
 
 
-Overfull \hbox (10.23651pt too wide) in paragraph at lines 54--57
+Overfull \hbox (10.23651pt too wide) in paragraph at lines 55--58
 []\TU/CMUSerif(1)/b/n/14.4 Классификатор ($[][][][][][][][][][][]$). \TU/CMUSer
 if(1)/m/n/14.4 Изолированный пакет с собствен-
  []
 
 
-Overfull \hbox (55.22694pt too wide) in paragraph at lines 54--57
+Overfull \hbox (55.22694pt too wide) in paragraph at lines 55--58
 \TU/CMUSerif(1)/m/n/14.4 ными зависимостями: фиксированный экстрактор признаков
  MobileNetV3-
  []
@@ -1427,24 +1427,27 @@ File: figures/main_menu.png Graphic file (type bmp)
 File: figures/segmentation_canvas.png Graphic file (type bmp)
 <figures/segmentation_canvas.png>
  [17]
-Overfull \hbox (24.3053pt too wide) in paragraph at lines 170--174
+Overfull \hbox (24.3053pt too wide) in paragraph at lines 172--176
 []\TU/CMUSerif(1)/b/n/14.4 Буфер масок. \TU/CMUSerif(1)/m/n/14.4 Подтверждённые
  маски попадают в список \TU/CMUTypewriterText(1)/m/n/14.4 MasksBuffer
  []
 
 
-Overfull \hbox (5.79973pt too wide) in paragraph at lines 175--182
+Overfull \hbox (5.79973pt too wide) in paragraph at lines 177--184
 []\TU/CMUSerif(1)/b/n/14.4 Кнопка авто-сегментации. \TU/CMUSerif(1)/m/n/14.4 В 
 панели инструментов доступна кноп-
  []
 
-[18]
-Overfull \hbox (0.40619pt too wide) in paragraph at lines 244--250
+File: figures/segmentation_canvas_autosegment_result.png Graphic file (type bmp
+)
+<figures/segmentation_canvas_autosegment_result.png>
+[18] [19]
+Overfull \hbox (0.40619pt too wide) in paragraph at lines 254--260
 \TU/CMUSerif(1)/m/n/14.4 классификацией её приводят к стандартному \TU/CMUSerif
 (1)/m/it/14.4 каноническому \TU/CMUSerif(1)/m/n/14.4 виду: глав-
  []
 
-[19]
+[20]
 File: figures/121_170_0035.jpg Graphic file (type bmp)
 <figures/121_170_0035.jpg>
 File: figures/121_170_0035_mask_0002.png Graphic file (type bmp)
@@ -1452,30 +1455,30 @@ File: figures/121_170_0035_mask_0002.png Graphic file (type bmp)
 File: figures/121_170_0035_leaf_crop_0002.png Graphic file (type bmp)
 <figures/121_170_0035_leaf_crop_0002.png>
 
-Overfull \hbox (48.62697pt too wide) in paragraph at lines 276--281
+Overfull \hbox (48.62697pt too wide) in paragraph at lines 286--291
 \TU/CMUSerif(1)/m/n/14.4 мальной площади и заполнение получившейся области чере
 з \TU/CMUTypewriterText(1)/m/n/14.4 cv2.drawContours
  []
 
 
-Overfull \hbox (7.38538pt too wide) in paragraph at lines 282--295
+Overfull \hbox (7.38538pt too wide) in paragraph at lines 292--305
 \TU/CMUSerif(1)/m/n/14.4 определяется методом главных компонент (Principal Comp
 onent Analysis,
  []
 
 
-Overfull \hbox (39.03723pt too wide) in paragraph at lines 282--295
+Overfull \hbox (39.03723pt too wide) in paragraph at lines 292--305
 \TU/CMUSerif(1)/m/n/14.4 ковариации $\OT1/cmr/m/n/14.4 2 \OMS/cmsy/m/n/14.4 ^^B
  \OT1/cmr/m/n/14.4 2$\TU/CMUSerif(1)/m/n/14.4 , её собственные векторы вычисляю
 тся через \TU/CMUTypewriterText(1)/m/n/14.4 np.linalg.eigh\TU/CMUSerif(1)/m/n/1
 4.4 .
  []
 
-[20]
+[21]
 File: figures/metrics_visualization.png Graphic file (type bmp)
 <figures/metrics_visualization.png>
 
-Overfull \hbox (7.52477pt too wide) in paragraph at lines 314--319
+Overfull \hbox (7.52477pt too wide) in paragraph at lines 324--329
 \TU/CMUSerif(1)/m/n/14.4 та: $\OML/cmm/m/it/14.4 L \OT1/cmr/m/n/14.4 = (\OML/cm
 m/m/it/14.4 y[] \OMS/cmsy/m/n/14.4 ^^@ \OML/cmm/m/it/14.4 y[] \OT1/cmr/m/n/14.4
  + 1) \OMS/cmsy/m/n/14.4 ^^A \OML/cmm/m/it/14.4 s$\TU/CMUSerif(1)/m/n/14.4 , гд
@@ -1483,106 +1486,103 @@ m/m/it/14.4 y[] \OMS/cmsy/m/n/14.4 ^^@ \OML/cmm/m/it/14.4 y[] \OT1/cmr/m/n/14.4
 пиксель),
  []
 
-[21]
+[22]
 File: figures/measure_metrics_settings_menu.png Graphic file (type bmp)
 <figures/measure_metrics_settings_menu.png>
- [22] [23]
-Overfull \hbox (52.11237pt too wide) in paragraph at lines 378--381
-[]\TU/CMUSerif(1)/b/n/14.4 Шаг 1: генерация кандидатов. \TU/CMUSerif(1)/m/n/14.
-4 Запускается \TU/CMUTypewriterText(1)/m/n/14.4 SamAutomaticMaskGenerator
+ [23]
+Overfull \hbox (7.95863pt too wide) in paragraph at lines 373--373
+[]\TU/CMUSerif(1)/b/n/17.28 Автоматическая сегментация и параметрические
+ []
+
+
+Overfull \hbox (1.41893pt too wide) in paragraph at lines 376--380
+\TU/CMUSerif(1)/m/n/14.4 мерений. Первые три шага реализованы единой функцией \
+TU/CMUTypewriterText(1)/m/n/14.4 auto_segment
  []
 
 [24]
-File: figures/segmentation_canvas_autosegment_result.png Graphic file (type bmp
-)
-<figures/segmentation_canvas_autosegment_result.png>
- [25]
-Overfull \hbox (53.68137pt too wide) in paragraph at lines 441--448
-\TU/CMUSerif(1)/m/n/14.4 жается соответствующая обученная модель отбора (\TU/CM
-UTypewriterText(1)/m/n/14.4 models/model_<type>.pkl\TU/CMUSerif(1)/m/n/14.4 ).
+Overfull \hbox (56.11557pt too wide) in paragraph at lines 381--384
+[]\TU/CMUSerif(1)/b/n/14.4 Шаг 1: генерация кандидатов. \TU/CMUSerif(1)/m/n/14.
+4 Запускается \TU/CMUTypewriterText(1)/m/n/14.4 SamAutomaticMaskGenerator\TU/CM
+USerif(1)/m/n/14.4 .
  []
 
 
-Overfull \hbox (1.55342pt too wide) in paragraph at lines 441--448
-\TU/CMUSerif(1)/m/n/14.4 Формат экспорта по умолчанию — XLSX, в столбце \TU/CMU
-TypewriterText(1)/m/n/14.4 crop \TU/CMUSerif(1)/m/n/14.4 которого встро-
+Overfull \hbox (11.714pt too wide) in paragraph at lines 385--389
+[]\TU/CMUSerif(1)/b/n/14.4 Шаг 2: дедупликация. \TU/CMUSerif(1)/m/n/14.4 AMG ге
+нерирует десятки масок-кандидатов;
+ []
+
+[25]
+Overfull \hbox (2.01259pt too wide) in paragraph at lines 415--421
+[]\TU/CMUSerif(1)/m/n/14.4 Прямолинейная реализация на ноутбуке без GPU обрабат
+ывала один
+ []
+
+Package pgfplots info on input line 451: Using 'lua backend=false' for axis: st
+acked plots unsupported (yet).
+Package pgfplots info on input line 451: Using 'lua backend=false' for axis: x 
+coord trafo unsupported.
+
+Overfull \hbox (0.91011pt too wide) in paragraph at lines 485--494
+[]\TU/CMUSerif(1)/b/n/14.4 Понижение входного разрешения \TU/CMUSerif(1)/m/n/14
+.4 (шаги 1–2). Кодировщик SAM
+ []
+
+
+Overfull \hbox (58.69415pt too wide) in paragraph at lines 485--494
+\TU/CMUSerif(1)/m/n/14.4 обработка масок (немаксимальное подавление, фильтрация
+ по \TU/CMUTypewriterText(1)/m/n/14.4 stability_score\TU/CMUSerif(1)/m/n/14.4 )
+
  []
 
 [26]
-Overfull \hbox (184.61356pt too wide) in paragraph at lines 469--482
- [][] 
+Overfull \hbox (9.95181pt too wide) in paragraph at lines 502--513
+\TU/CMUSerif(1)/m/n/14.4 ный IoU между двумя масками считался в лоб: \TU/CMUTyp
+ewriterText(1)/m/n/14.4 logical_and \TU/CMUSerif(1)/m/n/14.4 и \TU/CMUTypewrite
+rText(1)/m/n/14.4 logical_or
+ []
+
+[27]
+Overfull \hbox (6.32938pt too wide) in paragraph at lines 531--535
+[]\TU/CMUSerif(1)/b/n/14.4 Итог. \TU/CMUSerif(1)/m/n/14.4 Время обработки одног
+о 4K-кадра сократилось с 17,7 до 1,0 с —
  []
 
 
-Overfull \hbox (22.11661pt too wide) in paragraph at lines 496--507
-\TU/CMUSerif(1)/m/n/14.4 После шага 1 конвейер выглядел как метод \TU/CMUTypewr
-iterText(1)/m/n/14.4 predict_all \TU/CMUSerif(1)/m/n/14.4 обёртки \TU/CMUTypewr
-iterText(1)/m/n/14.4 Predictor
+Overfull \hbox (67.37578pt too wide) in paragraph at lines 539--543
+[]\TU/CMUSerif(1)/m/n/14.4 Все тесты исполняются автоматически при каждом пуше 
+через GitHub Actions;
+ []
+
+[28]
+Overfull \hbox (12.80458pt too wide) in paragraph at lines 560--567
+[]\TU/CMUSerif(1)/b/n/14.4 Регрессия автосегментации \TU/CMUSerif(1)/m/n/14.4 (
+категория 2) использует подход \TU/CMUSerif(1)/m/it/14.4 golden
  []
 
 
-Overfull \hbox (65.30219pt too wide) in paragraph at lines 496--507
-\TU/CMUSerif(1)/m/n/14.4 обёртки \TU/CMUTypewriterText(1)/m/n/14.4 Predictor \T
-U/CMUSerif(1)/m/n/14.4 в новую функцию (\TU/CMUTypewriterText(1)/m/n/14.4 auto_
-segment \TU/CMUSerif(1)/m/n/14.4 в модуле \TU/CMUTypewriterText(1)/m/n/14.4 lea
-f_pipeline.py\TU/CMUSerif(1)/m/n/14.4 ),
- []
-
-[27] [28] [29]
-Overfull \hbox (59.81734pt too wide) in paragraph at lines 583--589
-\TU/CMUSerif(1)/m/n/14.4 гурация — \TU/CMUTypewriterText(1)/m/n/14.4 packaging/
-sphagnum.spec\TU/CMUSerif(1)/m/n/14.4 , скрипт — \TU/CMUTypewriterText(1)/m/n/1
-4.4 packaging/build_windows.ps1\TU/CMUSerif(1)/m/n/14.4 ).
+Overfull \hbox (3.55016pt too wide) in paragraph at lines 571--577
+\TU/CMUSerif(1)/m/n/14.4 рацией. Доставка реализована в виде автономной сборки 
+под Windows 64
  []
 
 
-Overfull \hbox (0.53262pt too wide) in paragraph at lines 590--597
-\TU/CMUSerif(1)/m/n/14.4 тов \TU/CMUTypewriterText(1)/m/n/14.4 mobile_sam\TU/CM
-USerif(1)/m/n/14.4 , \TU/CMUTypewriterText(1)/m/n/14.4 timm \TU/CMUSerif(1)/m/n
-/14.4 (модели регистрируются декораторами) и \TU/CMUTypewriterText(1)/m/n/14.4 
-xgboost
+Overfull \hbox (12.77512pt too wide) in paragraph at lines 578--584
+\TU/CMUSerif(1)/m/n/14.4 RAR-архива ($\OMS/cmsy/m/n/14.4 ^^Y \OT1/cmr/m/n/14.4 
+327$ \TU/CMUSerif(1)/m/n/14.4 МБ); готовые сборки опубликованы в разделе [][]Re
+leases[][]
  []
 
 
-Overfull \hbox (10.29417pt too wide) in paragraph at lines 598--606
-[]\TU/CMUSerif(1)/m/n/14.4 Отдельно потребовался обработчик времени выполнения 
-для PyTorch:
+Overfull \hbox (0.84616pt too wide) in paragraph at lines 578--584
+\TU/CMUSerif(1)/m/n/14.4 репозитория проекта. Запуск — двойным кликом по \TU/CM
+UTypewriterText(1)/m/n/14.4 sphagnum.exe\TU/CMUSerif(1)/m/n/14.4 ; стан-
  []
 
-
-Overfull \hbox (11.63336pt too wide) in paragraph at lines 598--606
-\TU/CMUTypewriterText(1)/m/n/14.4 LoadLibraryExW\TU/CMUSerif(1)/m/n/14.4 , несо
-вместимый с контекстом замороженного PyInstaller-
- []
-
-
-Overfull \hbox (21.76608pt too wide) in paragraph at lines 598--606
-\TU/CMUSerif(1)/m/n/14.4 приложения. Обработчик (\TU/CMUTypewriterText(1)/m/n/1
-4.4 packaging/runtime_hooks/torch_dll_path.py\TU/CMUSerif(1)/m/n/14.4 )
- []
-
-
-Overfull \hbox (0.8942pt too wide) in paragraph at lines 598--606
-\TU/CMUSerif(1)/m/n/14.4 флагами; собственный цикл \TU/CMUTypewriterText(1)/m/n
-/14.4 torch \TU/CMUSerif(1)/m/n/14.4 затем получает уже готовые дескрип-
- []
-
-
-Overfull \hbox (16.80708pt too wide) in paragraph at lines 607--612
-[]\TU/CMUSerif(1)/m/n/14.4 Итоговый дистрибутив \TU/CMUTypewriterText(1)/m/n/14
-.4 dist/sphagnum-cpu-win64/ \TU/CMUSerif(1)/m/n/14.4 занимает $\OMS/cmsy/m/n/14
-.4 ^^Y \OT1/cmr/m/n/14.4 920$ \TU/CMUSerif(1)/m/n/14.4 МБ
- []
-
-[30]) (040_classifier.tex [31]
+) (040_classifier.tex [29]
 Overfull \hbox (11.01326pt too wide) in paragraph at lines 4--4
 []\TU/CMUSerif(1)/b/n/20.74 Обучение классификатора отбора листьев 
- []
-
-
-Overfull \hbox (15.2766pt too wide) in paragraph at lines 10--17
-[]\TU/CMUSerif(1)/m/n/14.4 Полностью автоматический режим обработки приложения 
-(раздел [][]3.6[][])
  []
 
 
@@ -1592,118 +1592,123 @@ Text(1)/m/n/14.4 good_leaf\TU/CMUSerif(1)/m/n/14.4 ; разделение на \
 riterText(1)/m/n/14.4 bad_leaf
  []
 
-[32]
-Overfull \hbox (8.76291pt too wide) in paragraph at lines 62--75
+[30]
+File: figures/121_170_0035_leaf_crop_0002.png Graphic file (type bmp)
+<figures/121_170_0035_leaf_crop_0002.png>
+File: figures/121_170_0035_leaf_crop_0002_letterbox.png Graphic file (type bmp)
+
+<figures/121_170_0035_leaf_crop_0002_letterbox.png>
+
+Overfull \hbox (4.77411pt too wide) in paragraph at lines 77--91
 \TU/CMUSerif(1)/m/n/14.4 ImageNet. Финальный классификационный слой заменяется 
-на \TU/CMUTypewriterText(1)/m/n/14.4 Identity\TU/CMUSerif(1)/m/n/14.4 ,
+на \TU/CMUTypewriterText(1)/m/n/14.4 Identity
  []
 
-[33]
-Overfull \hbox (4.5257pt too wide) in paragraph at lines 100--100
+
+Overfull \hbox (1.8846pt too wide) in paragraph at lines 77--91
+\TU/CMUSerif(1)/m/n/14.4 (сеть возвращает 576-мерный эмбеддинг вместо 1000 Imag
+eNet-логитов),
+ []
+
+
+Overfull \hbox (1.53372pt too wide) in paragraph at lines 94--109
+\OT1/cmr/m/n/14.4 0[]85$\TU/CMUSerif(1)/m/n/14.4 , $\OT1/cmr/m/n/14.4 1[]1$\TU/
+CMUSerif(1)/m/n/14.4 ). Горизонтальное отражение — единственное симметричное пр
+е-
+ []
+
+[31]
+Overfull \hbox (4.5257pt too wide) in paragraph at lines 120--120
 []\TU/CMUSerif(1)/b/n/17.28 Поддержка нескольких типов листьев \TU/CMUSerif(1)/
 b/it/17.28 Sphagnum 
  []
 
 
-Overfull \hbox (11.28777pt too wide) in paragraph at lines 103--115
+Overfull \hbox (11.28777pt too wide) in paragraph at lines 123--135
 \TU/CMUSerif(1)/m/n/14.4 рутся “хорошие” листья из соответствующей подпапки \TU
 /CMUTypewriterText(1)/m/n/14.4 good_leaf_<type>\TU/CMUSerif(1)/m/n/14.4 ,
  []
 
-[34] [35]
-Underfull \hbox (badness 2173) in paragraph at lines 186--186
-[]\TU/CMUSerif(1)/m/n/14.4 Таблица 6: []Покомпонентные метрики классификатора (
+[32]
+Overfull \hbox (30.6661pt too wide) in paragraph at lines 141--150
+\TU/CMUSerif(1)/m/n/14.4 ни). Полный датасет опубликован: [][]$[][][][][] [] []
+ [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][]$[][]
+ []
+
+[33]
+Underfull \hbox (badness 2173) in paragraph at lines 220--220
+[]\TU/CMUSerif(1)/m/n/14.4 Таблица 5: []Покомпонентные метрики классификатора (
 5-кратная
  []
 
-[36]
-Overfull \hbox (22.02121pt too wide) in paragraph at lines 230--236
-\TU/CMUSerif(1)/m/n/14.4 (уровень 0, $\OT1/cmr/m/n/14.4 778$ \TU/CMUSerif(1)/m/
-n/14.4 фрагментов: $\OT1/cmr/m/n/14.4 347$ \TU/CMUTypewriterText(1)/m/n/14.4 go
-od_leaf \TU/CMUSerif(1)/m/n/14.4 + $\OT1/cmr/m/n/14.4 280$ \TU/CMUTypewriterTex
-t(1)/m/n/14.4 bad_leaf \TU/CMUSerif(1)/m/n/14.4 + $\OT1/cmr/m/n/14.4 151$ \TU/C
-MUTypewriterText(1)/m/n/14.4 non_leaf\TU/CMUSerif(1)/m/n/14.4 );
- []
-
-[37]
-Overfull \hbox (65.58557pt too wide) in paragraph at lines 242--257
- [][] 
- []
-
-
-Overfull \hbox (7.64462pt too wide) in paragraph at lines 259--276
-\TU/CMUSerif(1)/m/n/14.4 выходные представления конкатенировались и подавались 
-в общую клас-
- []
-
-) (050_experiment.tex
-Overfull \hbox (47.90698pt too wide) in paragraph at lines 277--3
-\TU/CMUSerif(1)/m/n/14.4 оценкой, гауссова смесь (GMM) на 21-мерных ручных приз
-наках и \TU/CMUTypewriterText(1)/m/n/14.4 OneClassSVM
- []
-
-[38] [39]
+[34]) (050_experiment.tex [35]
 Overfull \hbox (5.45738pt too wide) in paragraph at lines 9--11
 \TU/CMUSerif(1)/m/n/14.4 с ручными измерениями, выполненными специалистом лабор
 атории Гер-
  []
 
 
-Overfull \hbox (0.4446pt too wide) in paragraph at lines 27--28
+Overfull \hbox (4.83661pt too wide) in paragraph at lines 12--14
+\TU/CMUSerif(1)/m/n/14.4 каждого изображения специалист выполнил ручное измерен
+ие двух мор-
+ []
+
+
+Overfull \hbox (0.4446pt too wide) in paragraph at lines 26--27
 []\TU/CMUSerif(1)/m/n/14.4 Для оценки погрешности измерений использовались след
 ующие мет-
  []
 
-[40]
-Overfull \hbox (70.2876pt too wide) in paragraph at lines 67--71
+[36]
+Overfull \hbox (70.2876pt too wide) in paragraph at lines 66--70
 []\TU/CMUSerif(1)/m/n/14.4 Средняя абсолютная погрешность составила MAE=62.7px 
 при RMSE=88.5px
  []
 
 
-Overfull \hbox (5.87003pt too wide) in paragraph at lines 67--71
+Overfull \hbox (5.87003pt too wide) in paragraph at lines 66--70
 \TU/CMUSerif(1)/m/n/14.4 и средней относительной погрешности MAPE=5.8%. Коэффиц
 иент кор-
  []
 
 
-Overfull \hbox (31.5774pt too wide) in paragraph at lines 72--76
+Overfull \hbox (31.5774pt too wide) in paragraph at lines 71--78
 []\TU/CMUSerif(1)/m/n/14.4 Наибольшие отклонения наблюдаются у образцов 3284_00
 07 и 3275_0081
  []
 
-[41]
-Overfull \hbox (138.81891pt too wide) in paragraph at lines 122--130
+[37]
+Overfull \hbox (138.81891pt too wide) in paragraph at lines 124--132
  [][] 
  []
 
-[42]
-Overfull \hbox (9.47337pt too wide) in paragraph at lines 132--138
+[38]
+Overfull \hbox (9.47337pt too wide) in paragraph at lines 134--140
 []\TU/CMUSerif(1)/m/n/14.4 Измерение поперечных профилей демонстрирует высокую 
 точность —
  []
 
-) (060_conclusion.tex [43]
+) (060_conclusion.tex [39]
 Overfull \hbox (2.06856pt too wide) in paragraph at lines 15--18
 \TU/CMUSerif(1)/m/n/14.4 ментов. Показано, что ни одно из рассмотренных решений
  (ImageJ,
  []
 
-[44]) (vkr.bbl [45] [46]) [47] (vkr.aux)
+[40]) (vkr.bbl [41] [42]) [43] (vkr.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `vkr.out' has not changed.
-(rerunfilecheck)             Checksum: A79CF5C77D9872ACD8432DD7DCACC2EB;8232.
+(rerunfilecheck)             Checksum: 6911CCD975113EC339ABEF61252FC0DD;7942.
  ) 
 Here is how much of TeX's memory you used:
- 38549 strings out of 402983
- 919646 string characters out of 5448482
- 1506711 words of memory out of 5000000
- 66567 multiletter control sequences out of 15000+600000
- 635068 words of font info for 169 fonts, out of 8000000 for 9000
+ 39091 strings out of 402983
+ 934376 string characters out of 5448482
+ 1546775 words of memory out of 5000000
+ 67108 multiletter control sequences out of 15000+600000
+ 635076 words of font info for 170 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,14n,139p,758b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,17n,139p,718b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on vkr.pdf (47 pages).
+Output written on vkr.xdv (43 pages, 665056 bytes).
