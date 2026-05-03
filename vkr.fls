@@ -453,6 +453,9 @@ INPUT .\figures\121_170_0035_leaf_crop_0002.png
 INPUT .\figures\121_170_0035_leaf_crop_0002_letterbox.png
 INPUT .\figures\121_170_0035_leaf_crop_0002_letterbox.png
 INPUT .\figures\121_170_0035_leaf_crop_0002_letterbox.png
+INPUT .\figures\classifier_pr_curve.png
+INPUT .\figures\classifier_pr_curve.png
+INPUT .\figures\classifier_pr_curve.png
 INPUT .\050_experiment.tex
 INPUT .\050_experiment.tex
 INPUT .\050_experiment.tex

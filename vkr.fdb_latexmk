@@ -1,25 +1,25 @@
 # Fdb version 4
-["bibtex vkr"] 1777806229.18448 "vkr.aux" "vkr.bbl" "vkr" 1777806235.46988 0
+["bibtex vkr"] 1777825072.84019 "vkr.aux" "vkr.bbl" "vkr" 1777826962.37553 0
   "./ugost2008ls.bst" 1774714251.71822 43109 1ff9efac036b66c7f4bb7c8999e7e194 ""
   "./vkr.bib" 1777667743.94008 28787 d386985498dcab58f8efeecc20b893ec ""
-  "vkr.aux" 1777806232.09197 18039 fb2fe18f072ebedd3291c12299644bf2 "xelatex"
+  "vkr.aux" 1777826957.80571 18639 47055f11335f23507d72d6e897800f53 "xelatex"
   (generated)
   "vkr.bbl"
   "vkr.blg"
   (rewritten before read)
-["xdvipdfmx"] 1777806232.94071 "vkr.xdv" "vkr.pdf" "vkr" 1777806235.50078 0
-  "vkr.xdv" 1777806232.09497 665056 cc2ea15255afcd652a7b72206c13386b "xelatex"
+["xdvipdfmx"] 1777826958.80459 "vkr.xdv" "vkr.pdf" "vkr" 1777826962.39516 0
+  "vkr.xdv" 1777826957.80971 653728 02c173057aac9feff8062e5624d0cbc4 "xelatex"
   (generated)
   "vkr.pdf"
   (rewritten before read)
-["xelatex"] 1777806229.4469 "vkr.tex" "vkr.xdv" "vkr" 1777806235.47074 0
+["xelatex"] 1777826953.89129 "vkr.tex" "vkr.xdv" "vkr" 1777826962.37612 0
   "000_intro.tex" 1777659828.86207 4858 b3904a2515dc7e2dd6a8bfa566fb516d ""
-  "010_task.tex" 1777799431.70202 4739 c36a7caf2abbabb293e9cde7ee67db60 ""
+  "010_task.tex" 1777824972.91829 2469 3cd8cbd67dd1b534a3dfc8e177a7b9ef ""
   "020_related.tex" 1777648413.04568 18116 ac9325302fa2857a028c074e19f3e5ae ""
   "030_app.tex" 1777802423.24602 45555 907cead880f0645a21543b7d3ca9ed03 ""
-  "040_classifier.tex" 1777804593.82196 19492 4f0be1520ecb9b1fd48a066b68f9786c ""
-  "050_experiment.tex" 1777806222.47215 10229 a58efb4f195dfd83a8710fa64bad3618 ""
-  "060_conclusion.tex" 1774718373.01827 3116 7d59b3d55e7e94a78009fc2c8b476b11 ""
+  "040_classifier.tex" 1777825214.06523 21320 b059de4b5f0180f74b04ecfa6c9fa18c ""
+  "050_experiment.tex" 1777808671.06258 8500 3384b2e7b3a079cc822897957a1ce045 ""
+  "060_conclusion.tex" 1777826948.13168 2744 22535f94ede0909c13aaa945a30bb309 ""
   "C:/Users/Pavel/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1774715336.10325 27177068 4d655ddc41d3b89000c59857797bac11 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136761454 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -236,6 +236,7 @@
   "figures/121_170_0035_leaf_crop_0002.png" 1777242446.84827 503139 8af5249ea3d603b53ec3ff31d6b95c56 ""
   "figures/121_170_0035_leaf_crop_0002_letterbox.png" 1777754685.46008 165462 eee18dd59f5aeb4e1e7a70e91c87a090 ""
   "figures/121_170_0035_mask_0002.png" 1777242446.88431 618332 e22dbe0b09f8165a4f20a5938f99d8b5 ""
+  "figures/classifier_pr_curve.png" 1777814896.81275 58555 fc25cd33f0f5891c86ea9b2c4703a62e ""
   "figures/main_menu.png" 1777727001.77001 18646 d8ad80fb02775f9e8143f5a42588351b ""
   "figures/measure_metrics_settings_menu.png" 1777317620.98103 25573 195069e53a6933c43ef1cb32f117b3be ""
   "figures/metrics_visualization.png" 1777317705.23425 440108 379200212096880f23963418def76edf ""
@@ -243,11 +244,11 @@
   "figures/segmentation_canvas_autosegment_result.png" 1777317536.58659 1685076 fe46760e3becfd45ace84d11883efe6d ""
   "matmex-diploma-custom.cls" 1774714251.70022 23005 e0793c7758b2f8e794581543457cbca4 ""
   "title.tex" 1774724661.15542 8992 98165870c7c8e8a3122d544f16e68d9a ""
-  "vkr.aux" 1777806232.09197 18039 fb2fe18f072ebedd3291c12299644bf2 "xelatex"
-  "vkr.bbl" 1777806229.35234 4347 101d78641aeb0eb8d473a8afb72fc119 "bibtex vkr"
-  "vkr.out" 1777806232.09397 7942 6911ccd975113ec339abef61252fc0dd "xelatex"
+  "vkr.aux" 1777826957.80571 18639 47055f11335f23507d72d6e897800f53 "xelatex"
+  "vkr.bbl" 1777826798.42011 4347 101d78641aeb0eb8d473a8afb72fc119 "bibtex vkr"
+  "vkr.out" 1777826957.80771 7756 d39e30a40d4b367a35970ebdbe579b09 "xelatex"
   "vkr.tex" 1777659804.3809 1548 25e3ec6e491648c7d0bfe017c2056488 ""
-  "vkr.toc" 1777806232.09497 4101 d6c3172dbce81f9940816b3cc88e2d1d "xelatex"
+  "vkr.toc" 1777826957.80971 4003 f140126781e902946892af5cc0d95a31 "xelatex"
   (generated)
   "vkr.aux"
   "vkr.log"

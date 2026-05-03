@@ -2,36 +2,35 @@
 \contentsline {section}{Введение}{4}{section*.2}%
 \contentsline {section}{\numberline {1}Постановка задачи}{6}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Цель и задачи работы}{6}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Обзор существующих решений}{8}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Инструменты для морфометрии и сегментации изображений}{8}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Сравнительный анализ}{9}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Выбор модели сегментации}{9}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Стек технологий}{13}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Разработка приложения}{14}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Требования к системе}{14}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Архитектура приложения}{15}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Интерактивная сегментация}{17}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Канонизация листа}{21}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Параметрические измерения листа}{22}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Автоматическая сегментация и параметрические измерения}{25}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Оптимизация производительности автоматической сегментации}{26}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Тестирование}{28}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Сборка и публикация}{29}{subsection.3.9}%
-\contentsline {section}{\numberline {4}Обучение классификатора отбора листьев}{30}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Постановка задачи}{30}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Архитектура классификатора}{31}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Поддержка нескольких типов листьев \textit {Sphagnum}}{32}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Процедура обучения}{33}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Результаты}{34}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Эксперимент}{36}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Цель и методология}{36}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Метрики качества}{36}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Сравнение длин листьев}{37}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Сравнение поперечных профилей ширины}{38}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Итоговые показатели}{38}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Апробация}{39}{subsection.5.6}%
-\contentsline {section}{Заключение}{40}{section*.17}%
-\contentsline {section}{Список литературы}{42}{section*.18}%
+\contentsline {section}{\numberline {2}Обзор существующих решений}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Инструменты для морфометрии и сегментации изображений}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Сравнительный анализ}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Выбор модели сегментации}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Стек технологий}{12}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Разработка приложения}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Требования к системе}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Архитектура приложения}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Интерактивная сегментация}{16}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Канонизация листа}{20}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Параметрические измерения листа}{21}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Автоматическая сегментация и параметрические измерения}{24}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Оптимизация производительности автоматической сегментации}{25}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Тестирование}{27}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Сборка и публикация}{28}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Обучение классификатора отбора листьев}{29}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Постановка задачи}{29}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Архитектура классификатора}{30}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Поддержка нескольких типов листьев \textit {Sphagnum}}{31}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Процедура обучения}{32}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Результаты}{33}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Эксперимент}{37}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Цель и методология}{37}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{37}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{38}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{39}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Апробация}{40}{subsection.5.5}%
+\contentsline {section}{Заключение}{41}{section*.18}%
+\contentsline {section}{Список литературы}{42}{section*.19}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
