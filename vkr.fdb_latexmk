@@ -1,24 +1,24 @@
 # Fdb version 4
-["bibtex vkr"] 1777825072.84019 "vkr.aux" "vkr.bbl" "vkr" 1777826962.37553 0
+["bibtex vkr"] 1777838190.40883 "vkr.aux" "vkr.bbl" "vkr" 1777838456.54622 0
   "./ugost2008ls.bst" 1774714251.71822 43109 1ff9efac036b66c7f4bb7c8999e7e194 ""
   "./vkr.bib" 1777667743.94008 28787 d386985498dcab58f8efeecc20b893ec ""
-  "vkr.aux" 1777826957.80571 18639 47055f11335f23507d72d6e897800f53 "xelatex"
+  "vkr.aux" 1777838451.82619 18802 0594392211a6180f58cc6d9860525e1a "xelatex"
   (generated)
   "vkr.bbl"
   "vkr.blg"
   (rewritten before read)
-["xdvipdfmx"] 1777826958.80459 "vkr.xdv" "vkr.pdf" "vkr" 1777826962.39516 0
-  "vkr.xdv" 1777826957.80971 653728 02c173057aac9feff8062e5624d0cbc4 "xelatex"
+["xdvipdfmx"] 1777838452.96888 "vkr.xdv" "vkr.pdf" "vkr" 1777838456.57814 0
+  "vkr.xdv" 1777838451.83319 655192 d76e7d1fea8ed7a038ffe7e06c16e88d "xelatex"
   (generated)
   "vkr.pdf"
   (rewritten before read)
-["xelatex"] 1777826953.89129 "vkr.tex" "vkr.xdv" "vkr" 1777826962.37612 0
+["xelatex"] 1777838447.09157 "vkr.tex" "vkr.xdv" "vkr" 1777838456.54686 0
   "000_intro.tex" 1777659828.86207 4858 b3904a2515dc7e2dd6a8bfa566fb516d ""
   "010_task.tex" 1777824972.91829 2469 3cd8cbd67dd1b534a3dfc8e177a7b9ef ""
   "020_related.tex" 1777648413.04568 18116 ac9325302fa2857a028c074e19f3e5ae ""
   "030_app.tex" 1777802423.24602 45555 907cead880f0645a21543b7d3ca9ed03 ""
-  "040_classifier.tex" 1777825214.06523 21320 b059de4b5f0180f74b04ecfa6c9fa18c ""
-  "050_experiment.tex" 1777808671.06258 8500 3384b2e7b3a079cc822897957a1ce045 ""
+  "040_classifier.tex" 1777835849.42559 20891 01e8d1692da0bffe7a2c1bf6b40ab064 ""
+  "050_experiment.tex" 1777838440.45237 8985 7ec79fbcfbf63bc6c218f7827d34ee47 ""
   "060_conclusion.tex" 1777826948.13168 2744 22535f94ede0909c13aaa945a30bb309 ""
   "C:/Users/Pavel/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1774715336.10325 27177068 4d655ddc41d3b89000c59857797bac11 ""
   "C:/Users/Pavel/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136761454 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -244,11 +244,11 @@
   "figures/segmentation_canvas_autosegment_result.png" 1777317536.58659 1685076 fe46760e3becfd45ace84d11883efe6d ""
   "matmex-diploma-custom.cls" 1774714251.70022 23005 e0793c7758b2f8e794581543457cbca4 ""
   "title.tex" 1774724661.15542 8992 98165870c7c8e8a3122d544f16e68d9a ""
-  "vkr.aux" 1777826957.80571 18639 47055f11335f23507d72d6e897800f53 "xelatex"
-  "vkr.bbl" 1777826798.42011 4347 101d78641aeb0eb8d473a8afb72fc119 "bibtex vkr"
-  "vkr.out" 1777826957.80771 7756 d39e30a40d4b367a35970ebdbe579b09 "xelatex"
+  "vkr.aux" 1777838451.82619 18802 0594392211a6180f58cc6d9860525e1a "xelatex"
+  "vkr.bbl" 1777838328.76384 4347 101d78641aeb0eb8d473a8afb72fc119 "bibtex vkr"
+  "vkr.out" 1777838451.83019 8046 11854132e1ffe3c08de206310092fa4e "xelatex"
   "vkr.tex" 1777659804.3809 1548 25e3ec6e491648c7d0bfe017c2056488 ""
-  "vkr.toc" 1777826957.80971 4003 f140126781e902946892af5cc0d95a31 "xelatex"
+  "vkr.toc" 1777838451.83319 4125 2f99b8a266ca22fa3979e09fe7ed7b4e "xelatex"
   (generated)
   "vkr.aux"
   "vkr.log"

@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  3 MAY 2026 19:49
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  3 MAY 2026 23:01
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./vkr.tex
-(vkr.tex
+**c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
+(c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (matmex-diploma-custom.cls
@@ -1680,15 +1680,15 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `vkr.out' has not changed.
-(rerunfilecheck)             Checksum: D39E30A40D4B367A35970EBDBE579B09;7756.
+(rerunfilecheck)             Checksum: 055C6DBD0EB737DCF6F5C6969BE8BA02;8142.
  ) 
 Here is how much of TeX's memory you used:
- 39107 strings out of 402983
- 935031 string characters out of 5448482
- 1546974 words of memory out of 5000000
+ 39108 strings out of 402983
+ 935155 string characters out of 5448482
+ 1546986 words of memory out of 5000000
  67119 multiletter control sequences out of 15000+600000
  635108 words of font info for 174 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,17n,139p,718b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,17n,139p,758b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on vkr.xdv (43 pages, 653728 bytes).
+Output written on vkr.pdf (43 pages).
