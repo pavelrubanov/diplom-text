@@ -20,18 +20,18 @@
 \contentsline {section}{\numberline {4}Обучение классификатора отбора листьев}{29}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Постановка задачи}{29}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Архитектура классификатора}{30}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Поддержка нескольких типов листьев \textit {Sphagnum}}{31}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Процедура обучения}{32}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Результаты}{33}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Эксперимент и апробация}{37}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Цель и методология}{37}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{37}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{38}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{39}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Сравнение по затратам времени}{40}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Апробация}{40}{subsection.5.6}%
-\contentsline {section}{Заключение}{41}{section*.18}%
-\contentsline {section}{Список литературы}{42}{section*.19}%
+\contentsline {subsection}{\numberline {4.3}Сбор обучающей выборки}{30}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Результаты}{32}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Сравнение с альтернативными архитектурами}{34}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Эксперимент и апробация}{36}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Цель и методология}{36}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{36}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{37}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{38}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Сравнение по затратам времени}{39}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Апробация}{39}{subsection.5.6}%
+\contentsline {section}{Заключение}{40}{section*.16}%
+\contentsline {section}{Список литературы}{41}{section*.17}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
