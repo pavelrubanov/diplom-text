@@ -22,16 +22,16 @@
 \contentsline {subsection}{\numberline {4.2}Архитектура классификатора}{28}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Сбор обучающей выборки}{28}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Результаты}{29}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Сравнение с альтернативными архитектурами}{32}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Эксперимент и апробация}{34}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Цель и методология}{34}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{34}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{35}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{36}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Сравнение по затратам времени}{37}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Апробация}{37}{subsection.5.6}%
-\contentsline {section}{Заключение}{38}{section*.16}%
-\contentsline {section}{Список литературы}{39}{section*.17}%
+\contentsline {subsection}{\numberline {4.5}Сравнение с альтернативными архитектурами}{31}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Эксперимент и апробация}{33}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Цель и методология}{33}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{33}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{34}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{35}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Сравнение по затратам времени}{36}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Апробация}{36}{subsection.5.6}%
+\contentsline {section}{Заключение}{37}{section*.15}%
+\contentsline {section}{Список литературы}{38}{section*.16}%
 \xpg@aux {}{english}
 \xpg@aux {}{english}
 \xpg@aux {}{english}
