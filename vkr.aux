@@ -80,6 +80,7 @@
 \newlabel{sec:classifier}{{4.2}{27}{Архитектура классификатора}{subsection.4.2}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Конвейер классификатора отбора масок}}{27}{figure.10}\protected@file@percent }
 \newlabel{fig:classifier_pipeline}{{10}{27}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Конвейер классификатора отбора масок}{figure.10}{}}
+\newlabel{eq:class_weights}{{1}{28}{Параметры XGBoost}{equation.1}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Сбор обучающей выборки}{28}{subsection.4.3}\protected@file@percent }
 \newlabel{sec:classifier_dataset}{{4.3}{28}{Сбор обучающей выборки}{subsection.4.3}{}}
 \@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Распределение классов в обучающей выборке (по типам листа)}}{29}{table.3}\protected@file@percent }
@@ -90,26 +91,34 @@
 \newlabel{fig:clf_pr_curve}{{11}{30}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces PR-кривая классификатора для бинарной задачи \texttt {good\_leaf} vs остальные (5-fold CV)}{figure.11}{}}
 \@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Метрики классификатора на рабочей точке recall $\geq 0{,}95$ (5-fold CV)}}{30}{table.4}\protected@file@percent }
 \newlabel{tab:clf_metrics}{{4}{30}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Метрики классификатора на рабочей точке recall $\geq 0{,}95$ (5-fold CV)}{table.4}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Сравнение с альтернативными архитектурами}{30}{subsection.4.5}\protected@file@percent }
-\newlabel{sec:classifier_justification}{{4.5}{30}{Сравнение с альтернативными архитектурами}{subsection.4.5}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Эксперимент и апробация}{33}{section.5}\protected@file@percent }
-\newlabel{sec:experiment}{{5}{33}{Эксперимент и апробация}{section.5}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Цель и методология}{33}{subsection.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{33}{subsection.5.2}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Сравнение автоматических и ручных измерений длины листа (пиксели)}}{34}{table.5}\protected@file@percent }
-\newlabel{tab:lengths}{{5}{34}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Сравнение автоматических и ручных измерений длины листа (пиксели)}{table.5}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{34}{subsection.5.3}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Метрики погрешности поперечных профилей ширины (пиксели)}}{35}{table.6}\protected@file@percent }
-\newlabel{tab:cross}{{6}{35}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Метрики погрешности поперечных профилей ширины (пиксели)}{table.6}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{35}{subsection.5.4}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Итоговые метрики точности автоматических измерений (Bias, MAE, RMSE~--- в пикселях)}}{35}{table.7}\protected@file@percent }
-\newlabel{tab:summary}{{7}{35}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Итоговые метрики точности автоматических измерений (Bias, MAE, RMSE~--- в пикселях)}{table.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Сравнение с альтернативными архитектурами}{31}{subsection.4.5}\protected@file@percent }
+\newlabel{sec:classifier_justification}{{4.5}{31}{Сравнение с альтернативными архитектурами}{subsection.4.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces \xpg@aux {}{russian}\ignorespaces F1(\texttt  {good\_leaf}) по 5-fold CV для разных экстракторов признаков}}{31}{table.5}\protected@file@percent }
+\newlabel{tab:clf_backbones}{{5}{31}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces F1(\texttt {good\_leaf}) по 5-fold CV для разных экстракторов признаков}{table.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces \xpg@aux {}{russian}\ignorespaces F1(\texttt  {good\_leaf}): глубокие и ручные признаки}}{32}{table.6}\protected@file@percent }
+\newlabel{tab:clf_features}{{6}{32}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces F1(\texttt {good\_leaf}): глубокие и ручные признаки}{table.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces \xpg@aux {}{russian}\ignorespaces F1(\texttt  {good\_leaf}) для разных классификаторов поверх признаков}}{32}{table.7}\protected@file@percent }
+\newlabel{tab:clf_models}{{7}{32}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces F1(\texttt {good\_leaf}) для разных классификаторов поверх признаков}{table.7}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces \xpg@aux {}{russian}\ignorespaces F1(\texttt  {good\_leaf}): трёхклассовая и бинарная постановка}}{33}{table.8}\protected@file@percent }
+\newlabel{tab:clf_classes}{{8}{33}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces F1(\texttt {good\_leaf}): трёхклассовая и бинарная постановка}{table.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Эксперимент и апробация}{34}{section.5}\protected@file@percent }
+\newlabel{sec:experiment}{{5}{34}{Эксперимент и апробация}{section.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Цель и методология}{34}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Сравнение длин листьев}{34}{subsection.5.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Сравнение автоматических и ручных измерений длины листа (пиксели)}}{34}{table.9}\protected@file@percent }
+\newlabel{tab:lengths}{{9}{34}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Сравнение автоматических и ручных измерений длины листа (пиксели)}{table.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Сравнение поперечных профилей ширины}{35}{subsection.5.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Метрики погрешности поперечных профилей ширины (пиксели)}}{35}{table.10}\protected@file@percent }
+\newlabel{tab:cross}{{10}{35}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Метрики погрешности поперечных профилей ширины (пиксели)}{table.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Итоговые показатели}{36}{subsection.5.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces \xpg@aux {}{russian}\ignorespaces Итоговые метрики точности автоматических измерений (Bias, MAE, RMSE~--- в пикселях)}}{36}{table.11}\protected@file@percent }
+\newlabel{tab:summary}{{11}{36}{\texorpdfstring {\xpg@aux {\xpg@current@opts }{\languagename }}{}\ignorespaces Итоговые метрики точности автоматических измерений (Bias, MAE, RMSE~--- в пикселях)}{table.11}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.5}Сравнение по затратам времени}{36}{subsection.5.5}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {5.6}Апробация}{36}{subsection.5.6}\protected@file@percent }
 \bibstyle{ugost2008ls}
 \bibdata{vkr}
-\@writefile{toc}{\contentsline {section}{Заключение}{37}{section*.15}\protected@file@percent }
-\newlabel{sec:conclusion}{{5.6}{37}{Заключение}{section*.15}{}}
+\@writefile{toc}{\contentsline {section}{Заключение}{37}{section*.19}\protected@file@percent }
+\newlabel{sec:conclusion}{{5.6}{37}{Заключение}{section*.19}{}}
 \bibcite{Bookstein1991}{1}
 \bibcite{Bookstein1998}{2}
 \bibcite{ClymoHayward1982}{3}
@@ -120,7 +129,7 @@
 \bibcite{Rohlf2021}{8}
 \bibcite{Ronneberger2015}{9}
 \bibcite{Rydin2006}{10}
-\@writefile{toc}{\contentsline {section}{Список литературы}{38}{section*.16}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{Список литературы}{38}{section*.20}\protected@file@percent }
 \@writefile{toc}{\xpg@aux {}{english}}
 \@writefile{toc}{\xpg@aux {}{english}}
 \@writefile{toc}{\xpg@aux {}{english}}

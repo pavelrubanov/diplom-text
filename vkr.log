@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  9 MAY 2026 15:11
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.3.28)  9 MAY 2026 16:56
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
-(c:/Users/Pavel/Desktop/diplom/diplom-text/vkr.tex
+**./vkr.tex
+(vkr.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (matmex-diploma-custom.cls
@@ -1509,82 +1509,51 @@ File: figures/121_170_0035_leaf_crop_0002_letterbox.png Graphic file (type bmp)
 
 <figures/121_170_0035_leaf_crop_0002_letterbox.png>
 
-Overfull \hbox (4.77411pt too wide) in paragraph at lines 65--71
+Overfull \hbox (4.77411pt too wide) in paragraph at lines 67--73
 \TU/CMUSerif(1)/m/n/14.4 ImageNet. Финальный классификационный слой заменяется 
 на \TU/CMUTypewriterText(1)/m/n/14.4 Identity
  []
 
 
-Overfull \hbox (1.8846pt too wide) in paragraph at lines 65--71
+Overfull \hbox (1.8846pt too wide) in paragraph at lines 67--73
 \TU/CMUSerif(1)/m/n/14.4 (сеть возвращает 576-мерный эмбеддинг вместо 1000 Imag
 eNet-логитов),
  []
 
 [27] [28]
-Overfull \hbox (30.70724pt too wide) in paragraph at lines 137--144
+Overfull \hbox (30.70724pt too wide) in paragraph at lines 147--156
 []\TU/CMUSerif(1)/m/n/14.4 Качество оценивается $\OT1/cmr/m/n/14.4 5$\TU/CMUSer
 if(1)/m/n/14.4 -кратной стратифицированной кросс-валидацией;
  []
 
+[29]
 File: figures/classifier_pr_curve.png Graphic file (type bmp)
 <figures/classifier_pr_curve.png>
-[29] [30]
-Overfull \hbox (11.03334pt too wide) in paragraph at lines 188--199
-\TU/CMUSerif(1)/m/n/14.4 (MobileNetV3-Small/Large, ResNet-18/50, EfficientNet-B
-0, ConvNeXt-Tiny,
+ [30]
+Overfull \hbox (12.65839pt too wide) in paragraph at lines 210--225
+ [][] 
  []
 
-
-Overfull \hbox (37.42236pt too wide) in paragraph at lines 188--199
-\TU/CMUSerif(1)/m/n/14.4 кратном проигрыше по скорости вычислений на CPU ($\OT1
-/cmr/m/n/14.4 192$ \TU/CMUSerif(1)/m/n/14.4 против $\OT1/cmr/m/n/14.4 6$\TU/CMU
-Serif(1)/m/n/14.4 мс/изобр.)
- []
-
-
-Overfull \hbox (36.7469pt too wide) in paragraph at lines 211--223
-[]\TU/CMUSerif(1)/m/it/14.4 Классификатор по признакам. \TU/CMUSerif(1)/m/n/14.
-4 На зафиксированных признаках MobileNet
- []
-
-[31]) (050_experiment.tex
-Overfull \hbox (2.21584pt too wide) in paragraph at lines 224--3
-\TU/CMUSerif(1)/m/n/14.4 нием отказных классов) проверена на той же выборке и т
-ем же XGBoost:
- []
-
-[32]
-Overfull \hbox (5.45738pt too wide) in paragraph at lines 9--11
-\TU/CMUSerif(1)/m/n/14.4 с ручными измерениями, выполненными специалистом лабор
-атории Гер-
- []
-
-[33]
-Overfull \hbox (70.25879pt too wide) in paragraph at lines 49--53
+[31] [32]) (050_experiment.tex [33]
+Overfull \hbox (11.0877pt too wide) in paragraph at lines 43--47
 []\TU/CMUSerif(1)/m/n/14.4 Средняя абсолютная погрешность составила MAE=58,1px 
-при RMSE=84,0px
+при RMSE
  []
 
 
-Overfull \hbox (5.85562pt too wide) in paragraph at lines 49--53
-\TU/CMUSerif(1)/m/n/14.4 и средней относительной погрешности MAPE=5,5%. Коэффиц
-иент кор-
- []
-
-
-Overfull \hbox (36.30212pt too wide) in paragraph at lines 54--61
+Overfull \hbox (36.30212pt too wide) in paragraph at lines 48--55
 []\TU/CMUSerif(1)/m/n/14.4 Наибольшие отклонения наблюдаются у образцов № 7 и №
  6 (APE=13,0%
  []
 
-[34]
-Overfull \hbox (9.47337pt too wide) in paragraph at lines 112--118
+[34] [35]
+Overfull \hbox (9.47337pt too wide) in paragraph at lines 106--112
 []\TU/CMUSerif(1)/m/n/14.4 Измерение поперечных профилей демонстрирует высокую 
 точность —
  []
 
-[35]) (060_conclusion.tex [36]
-Overfull \hbox (20.12935pt too wide) in paragraph at lines 42--44
+) (060_conclusion.tex [36]
+Overfull \hbox (20.12935pt too wide) in paragraph at lines 43--45
 [][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][][][][][] [] 
 [][][][][][][][][][][][] [] [][][][][][] [] [][][][][][][][]$[][] 
  []
@@ -1595,15 +1564,15 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `vkr.out' has not changed.
-(rerunfilecheck)             Checksum: AF1DE87569051FF674AB54060B70B6A6;8183.
+(rerunfilecheck)             Checksum: D5D8387EF20FBB496A5337C921A5EBA7;8183.
  ) 
 Here is how much of TeX's memory you used:
- 39125 strings out of 402983
- 935323 string characters out of 5448482
- 1547185 words of memory out of 5000000
- 67127 multiletter control sequences out of 15000+600000
+ 39131 strings out of 402983
+ 935347 string characters out of 5448482
+ 1547591 words of memory out of 5000000
+ 67134 multiletter control sequences out of 15000+600000
  637877 words of font info for 183 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 113i,18n,139p,758b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,18n,139p,718b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on vkr.pdf (39 pages).
+Output written on vkr.xdv (39 pages, 605384 bytes).
