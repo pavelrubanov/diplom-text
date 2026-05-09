@@ -371,6 +371,17 @@
             \vskip 5em
             Научный руководитель:\\
             \my@title@supervisorPosition@ru\ \my@title@supervisor@ru\\
+            \ifthenelse{\equal{\my@title@consultant@ru}{}}
+            {}
+            {
+                \ifthenelse{\equal{\my@title@consultant@ru}{\my@title@supervisor@ru}}
+                {\PackageError{matmex-diploma-custom}{Косультант и научник не могут быть одним и тем же физическим лицом. Скорее всего у Вас нет консультанта, и его указывать не нужно}{}}
+                {
+                    \vskip 1em
+                    Консультант:\\
+                    \my@title@consultantPosition@ru\ \my@title@consultant@ru\\
+                }
+            }
             \vskip 1em
             Рецензент:\\
             \my@title@reviewerPosition@ru\ \my@title@reviewer@ru\\
